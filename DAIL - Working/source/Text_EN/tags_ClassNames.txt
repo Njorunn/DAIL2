@@ -1,0 +1,60 @@
+
+#CLASS NAMES AND UI COLORS
+
+tagSkillClassName01=Soldier
+tagSkillClassName02=Demolitionist
+tagSkillClassName03=Occultist
+tagSkillClassName04=Nightblade
+tagSkillClassName05=Arcanist
+tagSkillClassName06=Shaman
+tagSkillClassName07=^YNecromancer
+tagSkillClassName08=^YRanger
+tagSkillClassName09=^YCoronus
+tagSkillClassNameCoronus=^YCoronus
+tagSkillClassName10=^YFangshi
+tagSkillClassName11=^lFrost Knight
+tagSkillClassNameFrostKnight=^lFrost Knight
+tagSkillClassName12=^lElementalist
+tagSkillClassName13=^lTerror Knight
+tagSkillClassName14=^gArch Necromancer
+tagSkillClassName15=^gIllusionist
+
+tagSkillClassName16=^bDefense
+tagSkillClassName17=^bHunting
+tagSkillClassName18=^bSpirit
+tagSkillClassName19=^bWarfare
+tagSkillClassName20=^bNature
+tagSkillClassName21=^bRogue
+tagSkillClassName22=^bEarth
+tagSkillClassName23=^bStorm
+tagSkillClassName24=^bDream
+tagClassName01=^bDefense
+tagClassName02=^bHunting
+tagClassName03=^bSpirit
+tagClassName04=^bWarfare
+tagClassName05=^bNature
+tagClassName06=^bRogue
+tagClassName07=^bEarth
+tagClassName08=^bStorm
+tagClassName09=^bDream
+
+tagSkillClassName25=^pVoidcaller
+tagSkillClassNameDemon=^pVoidcaller
+tagSkillClassName26=^pGrove Keeper
+tagSkillClassName27=^pEngineer
+tagSkillClassName28=^iCenobite
+tagSkillClassName29=^iWitch Doctor
+tagSkillClassNameWD=^iWitch Doctor
+tagSkillClassName30=^iDemon Hunter
+tagSkillClassNameDH=^iDemon Hunter
+
+
+
+#Parked
+#tagSkillClassNameMerc=^iMercenary
+#tagSkillClassName29=^iArlequin
+#tagSkillClassNameStalker=^iStalker
+#tagSkillClassNameMage=^iMage
+#Champion
+#Outrider
+#Riftstalker

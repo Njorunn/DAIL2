@@ -1,0 +1,46 @@
+
+function gd.wavespawn.useShrine()
+local player = Game.GetLocalPlayer()
+	player:GiveToken("SHRINE_"..tostring(waveNumber))	
+	math.randomseed(Time.Now())
+	local i = random(1,100)
+		if (i >= 75) then
+			UI.Notify("tagAttributePointAwardedc")
+			player:GiveItem("records/items/misc/essence_power.dbr", 1, true)
+			return
+		end
+		
+		if (i >= 50) then
+			UI.Notify("tagSkillPointAwardedc")
+			player:GiveItem("records/items/misc/essence_skill.dbr", 1, true)
+		end
+end
+
+function gd.wavespawn.unsetBossAlive(objectId) --Boss Died
+bossAlive = 0
+local player = Game.GetLocalPlayer()
+local boss = Character.Get(objectId)
+local dbrPath = boss:GetName()
+local bossName = ""
+	if (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_warden02.dbr") then bossName = "WARDEN"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_darius.dbr") then bossName = "DARIUS"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_dranghoul.dbr") then bossName = "BLOODFEAST"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_dermapteranqueen02.dbr") then bossName = "RAVNA"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_aetherialobelisk02.dbr") then bossName = "OBELISK"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_zealot.dbr") then bossName = "ZEALOT"
+	elseif (dbrPath == "records/creatures/wavespawn/heroes&bosses/boss_loghorrean_03.dbr") then bossName = "LOGHORREAN"
+	end
+	if (player:HasToken("BOSS_"..bossName.."_KILLED") == false) then
+		chestDBR = "records/items/lootchests/chest_"..bossName..".dbr"
+		if (player:HasToken("SKILLPOINT_"..bossName) == false) then
+			player:GiveItem("records/items/misc/essence_skill.dbr", 1, true)
+			UI.Notify("tagSkillPointAwardedc")
+			player:GiveItem("records/items/misc/inventorybag.dbr", 1, false)
+			player:GiveToken("SKILLPOINT_"..bossName)
+		end
+		player:GiveToken("BOSS_"..bossName.."_KILLED")
+	else chestDBR = "records/items/lootchests/chest_t0.dbr"
+	end
+	local chest = Chest.Create(chestDBR)
+	chest:SetCoords(chestPointCoords)
+end
