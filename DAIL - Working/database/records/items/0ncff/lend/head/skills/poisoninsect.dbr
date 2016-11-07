@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/items/0ncff/lend/head/skills/poisoninsect_buff.dbr,
+projectileNames,records/items/0ncff/lend/head/skills/fx/poison_projectilefx_nocollide.dbr,

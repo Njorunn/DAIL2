@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuffradius.tpl,
+Class,Skill_AttackBuffRadius,
+buffSkillName,records/items/0ncff/lend/amulet/skills/markofflame_buff.dbr,
+pointBlank,0,

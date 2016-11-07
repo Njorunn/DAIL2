@@ -1,0 +1,3 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+buffSkillName,records/items/0ncff/lend/weapon/skills/wp18_debuff.dbr,
