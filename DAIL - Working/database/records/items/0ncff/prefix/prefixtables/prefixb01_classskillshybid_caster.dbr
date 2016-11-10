@@ -1,6 +1,6 @@
 templateName,database/templates/lootrandomizertabledynamic.tpl,
 Class,LootRandomizerTable,
-FileDescription,Torso / Medal only,
+FileDescription,No monk here,
 randomizerLevelMax1,64,
 randomizerLevelMax10,89,
 randomizerLevelMax11,64,

@@ -7,26 +7,50 @@ Working Version: 59
 
 In Play:
 ********
-NG	58.3
-B	58.3
-S	58.3
-X	58.3
-DGA	58.3
-GDE	58.3
+NG	58.3.F
+B	58.3.F
+S	58.3.F
+X	58.3.F
+DGA	58.3.F
+GDE	58.3.F
 ********
 
 To Do:
 ********
-Update - Cornucpoia 0.3.2.J (tweaks)(No source yet)
+
 Post 50 mastery investment inquiries
-Update - Zenith (New fx)(No source yet)
-Fix - Relic weapon reqs
+Update - DGA 0.5 (Xmas)
+Update - Zenith (New fx and class) (Xmas)
+Update - Cornucopia 0.3.3(Xmas) (Will include 1.0.0.6 new items)
+Fix - Relic weapon reqs?
 Update - Skills for staff/spear?
-New - X mode!
+
 ********
 	
 ****************************************************************
 ****************************************************************
+
+[59 11/9/2016]
+Purge - Working dir
+	Pulled back-up 11/6/2016
+	Reworked changes
+
+[59 11/8/2016]
+Change - all gameengine.dbr
+	max pot 9999
+
+Merged - Omega 0.64
+	Notes : http://www.grimdawn.com/forums/showthread.php?t=37935&page=10
+	Fix - all gameengine.dbr faction13
+
+Inquiry - DGA file integrity
+	No endless?
+
+Inquiry - GDE file integrity
+	No lower pantheon?
+	
+Update - NCFF Cenobite (again)
+	Shield Bash and Healing touch changes dev intention
 
 [58.3 11/6/2016]
 Revert - Cenobite (#28) 
