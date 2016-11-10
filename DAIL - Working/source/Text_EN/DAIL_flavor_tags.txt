@@ -9,58 +9,18 @@ tagGrimmestSamtarian_the_half=^pSamtarian, the Half-...
 
 tagNPC_Guard_Kath=Kathanious - ^oDavoodian Acolyte
 
-#Loading Tips
-tagLoadingTip01=
-tagLoadingTip02= 
-tagLoadingTip03=
-tagLoadingTip04= 
-tagLoadingTip05= 
-tagLoadingTip06= 
-tagLoadingTip07= 
-tagLoadingTip08= 
-tagLoadingTip09= 
-tagLoadingTip10= 
-tagLoadingTip11= 
-tagLoadingTip12= 
-tagLoadingTip13= 
-tagLoadingTip14= 
-tagLoadingTip15= 
-tagLoadingTip16= 
-tagLoadingTip17= 
-tagLoadingTip18= 
-tagLoadingTip19= 
-tagLoadingTip20= 
+tagQuests=Active Quests (59)
 
-tagQuests=Active Quests (58.3)
-
-#Top Left UI Tag
-#tagRDifficultyTitle01=Normal 58 (X)
-#tagRDifficultyTitle02=Elite 58 (X)
-#tagRDifficultyTitle03=Ultimate 58 (X)
-#tagChallengeDifficulty=Veteran 58 (X)
-#tagHardcore=Hardcore 58 (X)  
-
-#tagRDifficultyTitle01=Normal 58 (S)
-#tagRDifficultyTitle02=Elite 58 (S)
-#tagRDifficultyTitle03=Ultimate 58 (S)
-#tagChallengeDifficulty=Veteran 58 (S)
-#tagHardcore=Hardcore 58 (S)  
-
-#tagRDifficultyTitle01=Normal 58 (B)
-#tagRDifficultyTitle02=Elite 58 (B)
-#tagRDifficultyTitle03=Ultimate 58 (B)
-#tagChallengeDifficulty=Veteran 58 (B)
-#tagHardcore=Hardcore 58 (B)  
-
-#tagRDifficultyTitle01=Normal 58 (NG)
-#tagRDifficultyTitle02=Elite 58 (NG)
-#tagRDifficultyTitle03=Ultimate 58 (NG)
-#tagChallengeDifficulty=Veteran 58 (NG)
-#tagHardcore=Hardcore 58 (NG)  
+#Top Left UI tag
+#tagRDifficultyTitle01=Normal 59
+#tagRDifficultyTitle02=Elite 59
+#tagRDifficultyTitle03=Ultimate 59
+#tagChallengeDifficulty=Veteran 59
+#tagHardcore=Hardcore 59
 
 #Survival Header
-tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 58)
-tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 58)
+tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 59)
+tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 59)
 
 
 #Transmorg Smith

@@ -1,0 +1,100 @@
+Remember to change on build day!
+
+************************
+Campaign Modes
+************************
+
+Delete resource folder (only once if doing all campaign builds)
+
+Nullify source/scripts/main.lua
+	-- wavespawn.lua
+	-- wanez
+
+Delete (DGA) 
+records/controllers/enemies
+records/game
+records/proxies
+assets/leves_wa_map
+
+Delete (GDE) 
+	records/controllers/kymon
+	records/controllers/necro
+	records/entities
+	records/controllers
+	records/level art
+	records/proies
+	assets/Maps
+	
+Source/text_eng
+	DAIL_flavor_tags
+	
+Root folder name to match desired campaign mode
+	DAIL - Normal (NG)
+	DAIL - Grimmer (B)
+	DAIL - GRimmest (S)
+	DAIL - Nightmare (X)
+	DAIL - Hell (SX)
+
+Delete database/records/proxies folder if present
+	
+Copy contents of Modes folder to database
+	database/proxies
+	database/game/gameengine.dbr
+	
+Load assetmanager and load DAIL
+
+Build DAIL
+
+Cut *.arc files from resources folder, paste to DAIL/Modes/GQ_Merge_Data
+
+Execute updatearcs.bat
+
+Cut *.arc files from resources folder, paste to DAIL/resources
+
+Play
+
+For distribution:
+	resource folder with *.arc
+	database folder with dail*.arz
+
+Compress
+
+************************
+Game Mods
+************************
+
+Delete resource folder
+
+Add script entry
+	source/scripts/main.lua
+		remove -- from game mode script entry
+
+Root folder name to match desired mode
+	DAIL - Survival (GD Eternal)
+	DAIL - RIFT (DGA)
+
+Delete - Campaign modes
+	database/records/proxies 
+	database/records/game
+
+DAIL_flavor_tags	
+
+Copy contents of Modes folder to database or assets as needed
+				
+Load assetmanager and load DAIL
+
+Build DAIL
+
+Cut *.arc files from resources folder, paste to DAIL/Modes/GQ_Merge_Data
+
+Execute updatearcs.bat
+
+Cut *.arc files from resources folder, paste to DAIL/resources
+
+Play
+
+For distribution:
+	resource folder with *.arc
+	database folder with dail*.arz
+
+Compress

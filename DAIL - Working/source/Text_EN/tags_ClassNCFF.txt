@@ -34,8 +34,8 @@ tagClass07SkillName01=Bone Spear
 tagClass07SkillDescription01=Launch a spear that pierces through an enemy's body.
 tagClass07SkillName01B=Soul Blast
 tagClass07SkillDescription01B=Enhances your Bone Spear with the power of soul, causing it to explode on impact.
-tagClass07SkillName01C=Trident 
-tagClass07SkillDescription01C=Bone Spear now launches multiple projectiles with each cast. 
+tagClass07SkillName01C=Bone Puncture
+tagClass07SkillDescription01C=Add weapon damage to Bone Spear. {^n}{^n}^oRequires a ranged weapon or dagger.
 tagClass07SkillName01D=Piercing Ice 
 tagClass07SkillDescription01D=When your Bone Spear hits any enemy, it triggers an Ice Blast.{^n}{^n}^o Ice Blast counts as an independent secondary effect, and is not affected by other skills that modify Bone Spear.
 tagClass07SkillName02=Astrosphere Wraith
@@ -78,7 +78,7 @@ tagClass07SkillDescription09=Your knowledge of weapons and armor, along with you
 tagClass07SkillName10=Pale Master
 tagClass07SkillDescription10=You turn undead while maintaining your humanity.
 tagClass07SkillName11=Summon Skeleton
-tagClass07SkillDescription11=Summon skeleton warriors to fight for you.
+tagClass07SkillDescription11=Summon skeleton warriors to fight for you.^oThe skeleton scales with Pet Bonuses.
 tagClass07SkillName11P=Skeleton Warrior
 tagClass07SkillName11P1=Skeleton Charge
 tagClass07SkillDescription11P1=Your skeleton warriors can charge at enemies.
@@ -99,14 +99,12 @@ tagClass07SkillName13=Wither Pool
 tagClass07SkillDescription13=Spawn a deadly pool to weaken and injure your enemies.
 tagClass07SkillName13B=Bone Prison
 tagClass07SkillDescription13B=Summons a Bone Prison to trap your enemies.
-
 tagClass07SkillNameN1=Dullahan
 tagClass07SkillDescriptionN1=Summon Dullahan, the headless undead general, to fight for you.
 tagClass07SkillNameN2=Undead Attack
 tagClass07SkillNameN3=Undead General
 tagClass07SkillNameN4=Malice Pulse
 tagClass07SkillNameN5=Ghost Blitz
-
 
 #***********************************************************************************************************************************
 #RANGER
@@ -119,18 +117,18 @@ tagClass08SkillDescription01=Improve your weapon damage with ranged weapons.{^n}
 tagClass08SkillName01T=Split Bullet
 tagClass08SkillDescription01T=Your bullets splinter into multiple projectiles but deal less damage.
 tagClass08SkillName01A=Homicidomania
-tagClass08SkillDescription01A=Gain bonus to Marksmanship.When you kill an enemy, set up a Mark of the Slayer on the ground.{^n}{^n}^oMark of the Slayer can be actived by Hunting Ground.
+tagClass08SkillDescription01A=Gain bonus to Marksmanship. When you kill an enemy, set up a Mark of the Slayer on the ground.{^n}{^n}^oMark of the Slayer will reinforce you while blocking foes.
 tagClass08SkillName01AB=Mark of the Slayer
 tagClass08SkillName01B=Magicial Bullet
 tagClass08SkillDescription01B= These mysterious bullets can cause uncertain effects. 
 tagClass08SkillName01C=Suppression Fire
 tagClass08SkillDescription01C=Your enemy becomes panicked and crushed in a hail of bullets.
 tagClass08SkillName02=Rapid Fire
-tagClass08SkillDescription02=You can fire several times rapidly.{^n}{^n}^oCan activate with all default weapon attacks.  {^n}{^n}^o2 times with 2H ranged weapons, 3 times with 1H ranged weapons, 4 times with dual ranged wielding.
+tagClass08SkillDescription02=You can fire several times rapidly.{^n}{^n}^oCan activate with all default weapon attacks.{^n}{^n}^o2 times with 2H ranged weapons, 3 times with 1H ranged weapons, 4 times with dual ranged wielding.
 tagClass08SkillName03=CrossFire
 tagClass08SkillDescription03=Magical shrapnels spray from your Rapid Fire.{^n}{^n}^oRequires dual ranged wielding. Also enables the ability to dual wield ranged weapons.
 tagClass08SkillName04=Snipe
-tagClass08SkillDescription04=Rapid Fire become a deadly penetrating attack.{^n}{^n}^oRequires a 2H ranged weapon.
+tagClass08SkillDescription04=Rapid Fire become a deadly penetrating attack.{^n}{^n}^oRequires a 2H ranged weapon. The actual projectile piercing chance is double of the tooltip. 
 tagClass08SkillName05=Premeditation
 tagClass08SkillDescription05=Give you transient bonus after Rapid Fire.{^n}{^n}^oRequires a shield or magical offhand. Also requires a ranged weapon.
 tagClass08SkillName05T=Premeditation
@@ -149,9 +147,9 @@ tagClass08SkillDescription07C=Punishment to the fallen.
 tagClass08SkillName08=Coup de Grace
 tagClass08SkillDescription08=Deals critical damage to a single target.{^n}{^n}^oRequires a ranged weapon.
 tagClass08SkillName08B=Headshot
-tagClass08SkillDescription08B=A fatal shot executes your enemy.
+tagClass08SkillDescription08B=A fatal shot executes your enemy. Set 6 Marks of the Slayer when Coup de Grace hits an enemy.
 tagClass08SkillName08C=Hunting Ground
-tagClass08SkillDescription08C=Reduce the cooldown of Coup de Grace. Every Mark of the Slayer will heal you when Coup de Grace hits an enemy.
+tagClass08SkillDescription08C=Because of the study of physiology and anatomy, you can cause fatal damage to the prey.
 tagClass08SkillName09=Reload
 tagClass08SkillDescription09=Reduce the cooldown of all your activated skills.{^n}{^n}^oRequires a ranged weapon.
 tagClass08SkillName09T=Quick Reload
@@ -178,10 +176,9 @@ tagClass08SkillDescription13=Increases movement speed and adds evasion from all 
 tagClass08SkillName13E=Focus Fire
 tagClass08SkillDescription13E=Gain additional attack speed while Windrunner activated.
 tagClass08SkillName14=Art of Ranger 
-tagClass08SkillDescription14=The arts of ranger gives a you chance to cast skills multiple times.{^n}{^n}^o
-Affects Bulletstorm, Phantom Falcon, Coup de Grace and Windrunner and requires one to unlock.
-tagClass08SkillNameN1=Falcon's Flight
-tagClass08SkillDescriptionN1=Manuever to fight another day.
+tagClass08SkillDescription14=The arts of ranger gives a you chance to cast skills multiple times.
+tagClass08SkillNameN1=Uncanny Dodge
+tagClass08SkillDescriptionN1=A swift evasive action means you can use the foes as your play thing. Every successful evasion reduce the cooldown of all your activated skills.
 
 #***********************************************************************************************************************************
 #FANGSHI
@@ -211,7 +208,7 @@ tagClass10SkillName03T=Moral Purity
 tagClass10SkillDescription03T=Your mind is at peace when you stand near the ice barricades.
 tagClass10SkillName04=Frost Wings
 tagClass10SkillDescription04=Two wings of ice attack your enemies.{^n}{^n}^oCost double mana in fact.
-tagClass10SkillName04B=Glacier Nova
+tagClass10SkillName04B=Glacial Nova
 tagClass10SkillDescription04B=Ice shards spray from your Frost Wings.{^n}{^n}^oNova counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
 tagClass10SkillName04BT=Glacier Nova
 tagClass10SkillName04C=Dragon's Breath
@@ -270,22 +267,18 @@ tagClass10SkillDescription15B=Last stand at death's door
 tagClass10SkillName10=Will Blade
 tagClass10SkillDescription10=A special sweep attack that weakening foes.{^n}{^n}^oRequires a scepter or dagger. Can be used as your default weapon attack.
 
-tagItemSkillCornB01Name=Pack Mentality
-tagItemSkillCornB01Desc=Push on with the vigor of a pack of Rifthounds.
-
-
 #***********************************************************************************************************************************
 #CENOBITE
 
 tagClass28SkillName00=^iCenobite
 tagClass28SkillName00A=^iCenobite
-tagClass28SkillDescription00=Piety and discipline gives you strength¡£
+tagClass28SkillDescription00=Piety and discipline gives you strength.
 tagClass28SkillName01=Chosen One
 tagClass28SkillDescription01=You are gifted with skilled combat.
 tagClass28SkillName02=Divine Hammer
 tagClass28SkillDescription02=A magic hammer that crush your enemies.
-tagClass28SkillName02T=Purge
-tagClass28SkillDescription02T=Divine Hammer is transmuted to power of purge.
+tagClass28SkillName02T=Doom
+tagClass28SkillDescription02T=Divine Hammer is transmuted to power of doom.
 tagClass28SkillName02A=Burning Debris 
 tagClass28SkillDescription02A=Burning debris spray from ground.
 tagClass28SkillName02B=Maul
@@ -317,17 +310,17 @@ tagClass28SkillName06A=Punishment
 tagClass28SkillDescription06A=Let the enemy see his sin.
 tagClass28SkillName06B=Holy Nova
 tagClass28SkillDescription06B=Periodic cast holy blast attacks nearby enemy and taunt them.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
-tagClass28SkillName06BB=Holy Nove
+tagClass28SkillName06BB=Holy Nova
 tagClass28SkillName06C=Sanction
 tagClass28SkillDescription06C=The fire made the enemy helpless and bitter. 
-tagClass28SkillName07=Shield Bash
-tagClass28SkillDescription07=When used as your default weapon attack, Shield Bash will magnify the power of every 4th strike.{^n}{^n}^oRequires a shield. Shield bash will miss while using ranged weapons.
-tagClass28SkillName07B=Fracture
-tagClass28SkillDescription07B=Shield Bash carries the power of chaos, crushing the enemy's resistance.
+tagClass28SkillName07=Divine Assault
+tagClass28SkillDescription07=When used as your default weapon attack, cause fatal damage at your first times attack.{^n}{^n}^oEach attack drains a amount of damage that recharges slowly over time. Percent bonus affects all attacks while active. 
+tagClass28SkillName07B=Zealot
+tagClass28SkillDescription07B=God commended you for your enthusiasm. 
 tagClass28SkillName07C=Air Billow
-tagClass28SkillDescription07C=Shield Bash set off a hot blast, down nearby enemies.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
+tagClass28SkillDescription07C=Shield Bash set off a chaos blast, down nearby enemies.{^n}{^n}^oThis skill counts as an independent secondary effect, and is not affected by other skills that modify the main skill.
 tagClass28SkillName07T=Shield Slam
-tagClass28SkillDescription07T=Completely abandon the defensive use of shield.
+tagClass28SkillDescription07T=You completely abandon the defensive use of shield, and become a fatal fighter. {^n}{^n}^oAffects all attacks while Divine Assault active.
 tagClass28SkillName07TT=Shield Rage
 tagClass28SkillName08=Perfect Block 
 tagClass28SkillDescription08=Enter the full block status, perfect block all attacks. {^n}{^n}^oThis skill immobilizes you for its duration.
@@ -335,19 +328,19 @@ tagClass28SkillName09=Fight Back
 tagClass28SkillDescription09=A successful block will consume additional mana to release a powerful melee shield riposte to the attacker.
 tagClass28SkillName09T=Shield Riposte
 tagClass28SkillName09B=Defensive Stance 
-tagClass28SkillDescription09B=Efficient defense, but reducing the attack power.{^n}{^n}^oRequires a shield.
+tagClass28SkillDescription09B=Efficient defense, but reducing the attack power.{^n}{^n}^oRequires a melee weapon.
 tagClass28SkillName09C=Rapid Block
 tagClass28SkillDescription09C=With the reduction block ammount, greatly improve the efficiency of the shiled. 
 tagClass28SkillName10=Holy Spirit
 tagClass28SkillDescription10=Call heaven force, which greatly enhance your fighting ability. 
 tagClass28SkillName11=Therapeutic Touch
 tagClass28SkillDescription11=A spell which healing yourself. 
-tagClass28SkillName11A=Wide Area 
-tagClass28SkillDescription11A=The treatment power extended to the allies around you. 
+tagClass28SkillName11A=Divined Armor 
+tagClass28SkillDescription11A=The blessing of god gives you extra protection.
 tagClass28SkillName11B=Vigour
 tagClass28SkillDescription11B=The remnants of the healing energy protect friendly forces, increase their resistance to the power of death. 
 tagClass28SkillName12=Scourge
-tagClass28SkillDescription12=A divine bolt causes the huge harm. Has the chance to jump to other units. 
+tagClass28SkillDescription12=A divine bolt causes the huge harm. Also jump to other units. 
 tagClass28SkillName12B=Annihilation
 tagClass28SkillDescription12B=Scourge will greatly weaken the enemy. 
 
