@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Remember to change on build day!
 
 ************************
@@ -97,4 +98,96 @@ For distribution:
 	resource folder with *.arc
 	database folder with dail*.arz
 
+=======
+Remember to change on build day!
+
+Campaign Modes
+************************
+Remove assets/levels_wa_maps
+
+Remove assets/Maps
+
+Delete resource folder (only once if doing all builds)
+
+Nullify source/scripts/main.lua
+	-- wavespawn.lua
+	-- wanez
+
+
+Delete Kymon/Necro faction alteration if present
+	database/records/controllers/kymon
+	database/records/controllers/necro
+	
+Source/text_eng
+	DAIL_flavor_tags
+	
+Root folder name to match desired campaign mode
+	DAIL - Normal (NG)
+	DAIL - Grimmer (B)
+	DAIL - GRimmest (S)
+	DAIL - Nightmare (X)
+
+Delete database/records/proxies folder if present
+	
+Copy contents of Modes folder to database
+	database/proxies
+	database/game/gameengine.dbr
+	
+Load assetmanager and load DAIL
+
+Build DAIL
+
+Cut *.arc files from resources folder, paste to DAIL/Modes/GQ_Merge_Data
+
+Execute updatearcs.bat
+
+Cut *.arc files from resources folder, paste to DAIL/resources
+
+Play
+
+For distribution:
+	resource folder with *.arc
+	database folder with dail*.arz
+
+Compress
+
+
+Game Mods
+************************
+Delete resource folder
+
+Add script entry
+	source/scripts/main.lua
+		remove -- from game mode script entry
+
+Root folder name to match desired mode
+
+Delete database/records/proxies folder if present
+
+DAIL_flavor_tags	
+
+Copy contents of Modes folder to database or assets as needed
+	database/records/proxies
+	database/record/game/gameengine.dbr
+	database/records/controllers/faction/kymon & necro (GDE)
+	assets/maps (GDE)
+	assets/levels_wa_maps (DGE)
+		
+Load assetmanager and load DAIL
+
+Build DAIL
+
+Cut *.arc files from resources folder, paste to DAIL/Modes/GQ_Merge_Data
+
+Execute updatearcs.bat
+
+Cut *.arc files from resources folder, paste to DAIL/resources
+
+Play
+
+For distribution:
+	resource folder with *.arc
+	database folder with dail*.arz
+
+>>>>>>> master
 Compress
