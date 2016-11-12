@@ -4,7 +4,7 @@
 
 tagSkillClassDescriptionCoronus=Learning from the Order of Death Vigils and other masters in the art of summoning, the Coronus were a small group of people who wanted to gain more knowledge enveloping all forms of summoning. Neither masters nor beginners, they can summon the dead and otherworldly creatures to their aid to defend themselves in battle. Until the Grim Dawn, not once did they made themselves known to the public.
 
-tagClassCoronusSkillName00=^YCoronus
+tagClassCoronusSkillName00=^pCoronus
 tagClassCoronusSkillDescription00=The Coronus uses Necromancy and other forms of summoning to thrive in battle.
 
 tagClassCoronusSkillName01A=Cold Dead

@@ -25,9 +25,9 @@ tagSkillClassName0123=Tempest
 tagSkillClassName0124=Dream Striker
 tagSkillClassName0125=Idealist
 tagSkillClassName0126=Acolyte
-tagSkillClassName0127=Military Engineer
+tagSkillClassName0127=Billy Badass
+#tagSkillClassName0127=Military Engineer
 tagSkillClassName0128=Paladin
-#Merc tagSkillClassName0129=Face Smackist
 tagSkillClassName0129=Witch Warrior
 tagSkillClassName0130=Inquisition's Hammer
 
@@ -56,9 +56,9 @@ tagSkillClassName0223=Stormcutter
 tagSkillClassName0224=Dreamcutter
 tagSkillClassName0225=Starfire
 tagSkillClassName0226=Sacred Flame
-tagSkillClassName0227=Munitions Expert
+tagSkillClassName0227=Sapper
+#tagSkillClassName0227=Munitions Expert
 tagSkillClassName0228=Vanguard
-#Merc tagSkillClassName0229=Sapper
 tagSkillClassName0229=Pyrodoctor
 tagSkillClassName0230=Phoenix
 
@@ -86,9 +86,9 @@ tagSkillClassName0323=Bloodrain
 tagSkillClassName0324=Cabalist
 tagSkillClassName0325=Psionicist
 tagSkillClassName0326=Minstrel
-tagSkillClassName0327=Warper
+tagSkillClassName0327=Boogeyman
+#tagSkillClassName0327=Warper
 tagSkillClassName0328=The Doubting One
-#Merc tagSkillClassName0329=Boogey Man
 tagSkillClassName0329=Subjugator
 tagSkillClassName0330=Sky Fallen
 
@@ -115,9 +115,9 @@ tagSkillClassName0423=Azurewrath
 tagSkillClassName0424=Planeshifter
 tagSkillClassName0425=Starblade
 tagSkillClassName0426=Spellblade
-tagSkillClassName0427=Diversionist
+tagSkillClassName0427=Hitman
+#tagSkillClassName0427=Diversionist
 tagSkillClassName0428=Anathema
-#Merc tagSkillClassName0429=Hitman
 tagSkillClassName0429=Spiritual Slayer
 tagSkillClassName0430=Blade Archon
 
@@ -143,9 +143,9 @@ tagSkillClassName0523=Avatar of Thunder
 tagSkillClassName0524=Prodigy
 tagSkillClassName0525=Astrologer
 tagSkillClassName0526=Spellweaver
-tagSkillClassName0527=Inventor
+tagSkillClassName0527=[ms]Valkre[fs]Valkrie
+#tagSkillClassName0527=Inventor
 tagSkillClassName0528=Inquisitor
-#Merc tagSkillClassName0529=[ms]Valkre[fs]Valkrie
 tagSkillClassName0529=Arcane Doctor
 tagSkillClassName0530=Magister
 
@@ -170,9 +170,9 @@ tagSkillClassName0623=Stormcaller
 tagSkillClassName0624=Sadhu
 tagSkillClassName0625=Swami
 tagSkillClassName0626=Auramancer
-tagSkillClassName0627=Wayward Inventor
+tagSkillClassName0627=[ms]Woodsman[fs]Woodswoman
+#tagSkillClassName0627=Wayward Inventor
 tagSkillClassName0628=Spirit Shield
-#Merc tagSkillClassName0629=[ms]Woodsman[fs]Woodswoman
 tagSkillClassName0629=Beastmaster
 tagSkillClassName0630=Ixion
 
@@ -196,9 +196,9 @@ tagSkillClassName0723=Storm Wraith
 tagSkillClassName0724=Boneweaver
 tagSkillClassName0725=Voidcaster
 tagSkillClassName0726=Pale Charmer
-tagSkillClassName0727=Necrotechnomancer
+tagSkillClassName0727=Big Boned
+#tagSkillClassName0727=Necrotechnomancer
 tagSkillClassName0728=Fallen Champion
-#Merc tagSkillClassName0729=Big Boned
 tagSkillClassName0729=Puppet Master
 tagSkillClassName0730=Death Mystic
 
@@ -221,9 +221,9 @@ tagSkillClassName0823=Windstorm
 tagSkillClassName0824=Tormentor
 tagSkillClassName0825=Horizon Walker
 tagSkillClassName0826=Nature Whisperer
-tagSkillClassName0827=Combat Engineer
+tagSkillClassName0827=[ms]Robin Hood[fs]Robine Hood
+#tagSkillClassName0827=Combat Engineer
 tagSkillClassName0828=[ms]Battle Priest[fs]Battle Priestess
-#Merc tagSkillClassName0829=[ms]Robin Hood[fs]Robine Hood
 tagSkillClassName0829=Cursed Arrow
 tagSkillClassName0830=Moonscythe
 
@@ -245,9 +245,9 @@ tagSkillClassName0923=Susanoo
 tagSkillClassName0924=Mediator
 tagSkillClassName0925=Empyrean Shroud
 tagSkillClassName0926=[ms]Orpheus[fs]Orpheya
-tagSkillClassName0927=Reanimator
+tagSkillClassName0927=Puppeteer
+#tagSkillClassName0927=Reanimator
 tagSkillClassName0928=Limbo Warden
-#Merc tagSkillClassName0929=Puppeteer
 tagSkillClassName0929=Puppet Master
 tagSkillClassName0930=Void Channeler
 
@@ -268,9 +268,9 @@ tagSkillClassName1023=Fist of Wrath
 tagSkillClassName1024=Dream Walker
 tagSkillClassName1025=Kleromant
 tagSkillClassName1026=Bushi
-tagSkillClassName1027=Artificer
+tagSkillClassName1027=Bladedancer
+#tagSkillClassName1027=Artificer
 tagSkillClassName1028=Daoshi
-#Merc tagSkillClassName1029=Bladedancer
 tagSkillClassName1029=Dark Chi
 tagSkillClassName1030=Order of the Nether
 
@@ -290,9 +290,9 @@ tagSkillClassName1123=Maelstorm
 tagSkillClassName1124=Cryokineticist
 tagSkillClassName1125=Stellar Crystalist
 tagSkillClassName1126=Winter Doctor
-tagSkillClassName1127=Winter Technician
+tagSkillClassName1127=Cold Blooded
+#tagSkillClassName1127=Winter Technician
 tagSkillClassName1128=Boreal Paladin
-#Merc tagSkillClassName1129=Cold Blooded
 tagSkillClassName1129=Cursed Cold
 tagSkillClassName1130=Nether Knight
 
@@ -311,9 +311,9 @@ tagSkillClassName1223=Elemental Stormbringer
 tagSkillClassName1224=Mentalist
 tagSkillClassName1225=[ms]Equilibrium Lord[fs]Equilibrium Lady
 tagSkillClassName1226=Prismatist
-tagSkillClassName1227=Chemist
+tagSkillClassName1227=Prismatic Blade
+#tagSkillClassName1227=Chemist
 tagSkillClassName1228=Fluomant
-#Merc tagSkillClassName1229=Fabulous
 tagSkillClassName1229=Cursed Elementals
 tagSkillClassName1230=Elemental Riftmancer
 
@@ -331,9 +331,9 @@ tagSkillClassName1323=Myrmidon
 tagSkillClassName1324=Fear Eater
 tagSkillClassName1325=Madness Knight
 tagSkillClassName1326=Holy Terror
-tagSkillClassName1327=Bloodsmith
+tagSkillClassName1327=Death Edge
+#tagSkillClassName1327=Bloodsmith
 tagSkillClassName1328=Dark Paladin
-#Merc tagSkillClassName1329=Death Edge
 tagSkillClassName1329=Boogeyman
 tagSkillClassName1330=Abyssal Magi
 
@@ -350,13 +350,30 @@ tagSkillClassName1423=Wind of Death
 tagSkillClassName1424=Tainted Mindbearer
 tagSkillClassName1425=Doomed
 tagSkillClassName1426=Corruptor
-tagSkillClassName1427=Corruptor of Metal
+tagSkillClassName1429=Spooker
+#tagSkillClassName1427=Corruptor of Metal
 tagSkillClassName1428=Dark Redeemer
-#Merc tagSkillClassName1429=Spooker
 tagSkillClassName1429=Spooker
 tagSkillClassName1430=Voice of the Abyss
 
 #ILLUSIONIST
+#tagSkillClassName1516=Spellbinding Defender
+#tagSkillClassName1517=Trapmaster
+#tagSkillClassName1518=Eidolon
+#tagSkillClassName1519=Swiftblade
+#tagSkillClassName1520=Wanderer
+#tagSkillClassName1521=Ninja
+#tagSkillClassName1522=Kindred
+#tagSkillClassName1523=Mistclouder
+#tagSkillClassName1524=Skald
+#tagSkillClassName1525=[ms]Almucantar[fs]Almucantara
+#tagSkillClassName1526=Demagouge
+#tagSkillClassName1527=Gadgeteer
+#tagSkillClassName1528=Tower of ID
+#tagSkillClassName1529=Shadowmancer
+#tagSkillClassName1530=Basilisk
+
+#Mystic Warrior
 tagSkillClassName1516=Spellbinding Defender
 tagSkillClassName1517=Trapmaster
 tagSkillClassName1518=Eidolon
@@ -370,11 +387,12 @@ tagSkillClassName1525=[ms]Almucantar[fs]Almucantara
 tagSkillClassName1526=Demagouge
 tagSkillClassName1527=Gadgeteer
 tagSkillClassName1528=Tower of ID
-#Merc tagSkillClassName1529=Shadowmancer
 tagSkillClassName1529=Shadowmancer
 tagSkillClassName1530=Basilisk
 
+
 #DEFENSE
+tagSkillClassName1617=Defender
 tagSkillClassName1618=Spellbinder
 tagSkillClassName1619=Conquerer
 tagSkillClassName1620=Guardian
@@ -384,9 +402,9 @@ tagSkillClassName1623=Stormtrooper
 tagSkillClassName1624=Templar
 tagSkillClassName1625=Aegeis of Firmament
 tagSkillClassName1626=Knight Hospitaler
-tagSkillClassName1627=Technician
+tagSkillClassName1627=Tough Bastard
+#tagSkillClassName1627=Technician
 tagSkillClassName1628=Divine Rampart
-#Merc tagSkillClassName1629=Tough Bugger
 tagSkillClassName1629=Tough Bugger
 tagSkillClassName1630=Knight Mage
 
@@ -400,7 +418,8 @@ tagSkillClassName1723=Sage
 tagSkillClassName1724=Haruspex
 tagSkillClassName1725=Pioneer
 tagSkillClassName1726=Pawang
-tagSkillClassName1727=Technotracer
+tagSkillClassName1727=Green Berret
+#tagSkillClassName1727=Technotracer
 tagSkillClassName1728=Oathbound
 tagSkillClassName1729=Hippy
 tagSkillClassName1730=Dark Pawang
@@ -414,9 +433,9 @@ tagSkillClassName1823=Oracle
 tagSkillClassName1824=Diabolist
 tagSkillClassName1825=Thanatotheurge
 tagSkillClassName1826=Soul Weaver
-tagSkillClassName1827=Ensouler
+tagSkillClassName1827=Poltergeist
+#tagSkillClassName1827=Ensouler
 tagSkillClassName1828=Seraphim
-#Merc tagSkillClassName1829=Poltergeist
 tagSkillClassName1829=Poltergeist
 tagSkillClassName1830=Dark Caller
 
@@ -428,9 +447,9 @@ tagSkillClassName1923=Typhoon
 tagSkillClassName1924=Harbinger
 tagSkillClassName1925=Shooting Star
 tagSkillClassName1926=Chaplain
-tagSkillClassName1927=Sapper
+tagSkillClassName1929=Sargeant
+#tagSkillClassName1927=Sapper
 tagSkillClassName1928=Holy Warrior
-#Merc tagSkillClassName1929=Sargeant
 tagSkillClassName1929=Captain Dead
 tagSkillClassName1930=War Mage
 
@@ -441,9 +460,9 @@ tagSkillClassName2023=Wrath of Gaia
 tagSkillClassName2024=Ritualist
 tagSkillClassName2025=Adventurer
 tagSkillClassName2026=Hierophant
-tagSkillClassName2027=Forest Tinker
+tagSkillClassName2027=Bruiser
+#tagSkillClassName2027=Forest Tinker
 tagSkillClassName2028=Priest
-#Merc tagSkillClassName2029=Bruiser
 tagSkillClassName2029=Swamp Dweller
 tagSkillClassName2030=Grand Druid
 
@@ -453,9 +472,9 @@ tagSkillClassName2123=Sorcerer
 tagSkillClassName2124=Dreamkiller
 tagSkillClassName2125=Dreamer
 tagSkillClassName2126=Bard
-tagSkillClassName2127=Tinker
+tagSkillClassName2127=Assassin
+#tagSkillClassName2127=Tinker
 tagSkillClassName2128=Wicked Apostle
-#Merc tagSkillClassName2129=Assassin
 tagSkillClassName2129=Cursed Shadows
 tagSkillClassName2130=Shadoweaver
 
@@ -464,9 +483,9 @@ tagSkillClassName2223=Tectonist
 tagSkillClassName2224=Evoker
 tagSkillClassName2225=Meteor Mage
 tagSkillClassName2226=Bright Flame
-tagSkillClassName2227=Battle Forger
+tagSkillClassName2227=Firebrand
+#tagSkillClassName2227=Battle Forger
 tagSkillClassName2228=Celestial Molder
-#Merc tagSkillClassName2229=Firebrand
 tagSkillClassName2229=Cursed Earth
 tagSkillClassName2230=Magmiliar
 
@@ -474,48 +493,51 @@ tagSkillClassName2230=Magmiliar
 tagSkillClassName2324=Prophet
 tagSkillClassName2325=Jupiter
 tagSkillClassName2326=Conductor
-tagSkillClassName2327=Electromancer
+tagSkillClassName2329=Boomer
+#tagSkillClassName2327=Electromancer
 tagSkillClassName2328=Thunder Gale
-#Merc tagSkillClassName2329=Boomer
 tagSkillClassName2329=Cursed Storm
 tagSkillClassName2330=Thunder Mage
 
 #DREAM
 tagSkillClassName2425=Aberrant Mind
 tagSkillClassName2426=Chanter
-tagSkillClassName2427=Erudite
+tagSkillClassName2427=Psychopath
+#tagSkillClassName2427=Erudite
 tagSkillClassName2428=Diviner
-#Merc tagSkillClassName2429=Psychopath
 tagSkillClassName2429=Cursed Dreams
 tagSkillClassName2430=Aetherial Magister
 
 #VOIDCALLER
 tagSkillClassName2526=[ms]Astrum[fs]Astris
-tagSkillClassName2527=Astromancer
+tagSkillClassName2529=Devil's Right Hand
+#tagSkillClassName2527=Astromancer
 tagSkillClassName2528=Enlightened
-#Merc tagSkillClassName2529=Devil's Advocate
 tagSkillClassName2529=Devil's Advocate
 tagSkillClassName2530=Nujoom
 
 #ENCHANTER
-tagSkillClassName2627=Technomancer
+tagSkillClassName2629=Nature's Wrath
+#tagSkillClassName2627=Technomancer
 tagSkillClassName2628=Cleric
-#Merc tagSkillClassName2629=Nature's Wrath
 tagSkillClassName2629=Twisted Pine
 tagSkillClassName2630=Helpful Braggart
 
 #ENGINEER
-tagSkillClassName2728=Medic
-#Merc tagSkillClassName2729=Ordinance Disposal
-tagSkillClassName2729=Cursed Machine
-tagSkillClassName2730=Warcaster
+#tagSkillClassName2728=Medic
+#tagSkillClassName2729=Cursed Machine
+#tagSkillClassName2730=Warcaster
+
+#Mercenary
+tagSkillClassName2728=Holy Ghost
+tagSkillClassName2729=Acolyte
+tagSkillClassName2730=Demonslayer
+
 
 #CENOBITE
-#Merc tagSkillClassName2829=Holy Blade
 tagSkillClassName2829=Yin Yang
 tagSkillClassName2830=Anchorite
 
 
 #DEMON HUNTER
-#Merc tagSkillClassName2930=Brigande
-tagSkillClassName2930=Mystic Hunter
+tagSkillClassName2930=Fiend Hunter

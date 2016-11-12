@@ -1,17 +1,37 @@
-After decompressing, open the created folder to find the plainly labeled DAIL folder.
+[11/10/2016] K
 
-Copy and paste this folder to Grim Dawn/mods folder.
+[DAIL] 059
 
-You will find in DAIL/database/DAIL_Modes a list of arz files. Choose the play mode you wish to enjoy
-and copy the arz file to DAIL/database.
+Pick the campaign or game mode you wish to install:
 
-Normal (NG) - Vanilla mob density.
-Grimmer (B) - Vanilla mob density with increased hero and boss spawns.
-Grimmest (S) - Heavy mob density with increased hero and boss swap.
-Nightmare (X) - Increased mob challenge. Vanilla mob density with increased hero and boss spawns.
-Hell (SX) - Increased mob challenge. Heavy mob density with increased hero and boss spawns.
+(ng) - Vanilla mob density and mob scaling
+(b) - Vanilla mob density with increased hero/boss spawns
+(s) - High mob density with increased hero/boss spawns
+(x) - (b) density with increased mob scaling challenge
+(sx) - (s) density with increased mob scaling challenge
 
-	
-Load Grim Dawn and play.
+(gde) - Grim Dawn : Eternal
+(dga) - Dynamicaly Generated Areas
 
-You can change campaign modes again at any time following the instructions above.
+****************************************************
+Important!
+****************************************************
+
+All campaign modes are once again labeled DAIL.arz. Transfer stash and recipe files will
+need to play musical chairs once again. I recommend the GD_Stash tool:
+	http://www.grimdawn.com/forums/showthread.php?t=23414
+
+Find the appropriate arz file in DAIL/database/*/*.arz and copy to DAIL/database
+Rename the DAIL root folder name to match the gde or dga arz file. 
+
+Grim Dawn Eternal and DGA have unique arc files that need to be added to the resources folder.
+This unique files are found in DAIL/resources/*_unique. Copy and paste to DAIL/resources.
+
+Remove these arc files from the the resource folder when changing modes.
+There is a back up scripts.arc for campaign in DAIL/resources/campaign_backup.
+
+Make multiple copies of the DAIL and rename as needed to have multiple play modes available
+without having to rename or move files around.
+
+I'm trying to get the NSIS installer to automate all of this, but I have yet to figure it out.
+Should anyone familiar with this process wish to help, please do.
