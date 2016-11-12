@@ -9,20 +9,24 @@
 #CLASS GROVE KEEPER
 #ENUMERATION 26
 
+#CLASS MERC
+#ENUMERATION 27
+
+
 #CLASS Mage
 #CLASS STALKER
-#CLASS MERC
+#CLASS MALEFICAR
 
 #Masteries
-#tagClassFKName=^lFrost Knight
-tagClassNameFK=^lFrost Knight
+#tagClassFKName=^gFrost Knight
+tagClassNameFK=^gFrost Knight
 tagClassDemonName=^pVoidcaller
 tagClassEnch=^pGrove Keeper
 tagClassEnchName=^pGrove Keeper
 tagClassMage=^iMage
 tagClassStaker=^iStalker
-tagClassMercName=^iMercenary
-tagClassMerc=^iMercenary
+tagClassMercName=^fMercenary
+tagClassMerc=^fMercenary
 
 #Descriptions
 tagSkillClassFKDesc=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
@@ -33,10 +37,11 @@ tagSkillClassEnchDesc=Grove Keepers are well-known supporters, whose presence on
 
 tagSkillClassMageDesc=Master of the energies of Fire, Ice, and Air, the Mage channels the power of the elements to burn, freeze and electrify whole hosts of opponents at once.
 tagSkillClassStalkerDesc=?
-tagSkillClassMercDesc=^wMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
-tagClassMercDesc=^wMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
-tagClassMercDescription=^wMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
-tagSkillClassMercDesc=^wMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
+
+
+tagSkillClassMercDesc=Combat apptitude.
+tagSkillClassMercDescription=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n ^n ^kMercenary is a talented warrior who has mastered the art of close combat. Most mercenaries are trained to use one-handed weapons in both hands, however they also possess knowledge how to turn shields into deadly weapon to lay waste to their enemies.
+
 
 
 #ClassFrostKnight
@@ -60,8 +65,9 @@ tagFKSkillDesc02B={^S}Modifier {^n}{^n}{^w}Your Heart Strike freezes enemies sol
 tagFKSkillName02C=Frost Blight
 tagFKSkillDesc02C={^S}Modifier {^n}{^n}{^w}Your Heart Strike infects the target with debilitating disease that reduces poison and frost resistances and then spreads to nearest enemies.
 tagFKSkillName03A=Ice Block
+tagFKSkillDesc03A={^S}Utility {^n}{^n}{^w}Covers your body with impenetrable ice, protecting you from all damage, but during that time you cannot move or attack.
 tagFKSkillName03B=Glacial Boon
-tagFKSkillDesc03A={^S}Utility {^n}{^n}{^w}Covers your body with impenetrable ice, protecting you from all damage, but during that time you cannot move or attack. Each enemy hit received decreases the remaining cooldown of all currently recharging skills.
+tagFKSkillDesc03B={^S}Transmuter {^n}{^n}{^w}While Ice Block is active, each enemy hit received decreases the remaining cooldown of all currently recharging skills.
 tagFKSkillName04A=Trained Knight
 tagFKSkillDesc04A={^S}Passive {^n}{^n}{^w}Years of training allow to parry enemy attacks with melee weapons, and to use better equipment than an untrained warrior of equivalent strength could manage.
 tagFKSkillName05A=Frostborn
@@ -90,15 +96,15 @@ tagFKSkillName11A=Devastating Blast
 tagFKSkillDesc11A={^S}Transmuter {^n}{^n}{^w}Causes your Frost Blast to deliver devastating damage to your foes, but with longer pauses between each cast.
 tagFKSkillName11B=Hoarfrost
 tagFKSkillDesc11B={^S}Modifier {^n}{^n}{^w}Frost Blast chills your enemies and prevents using any skill for a short time.
-tagFKSkillName12=Cold Snap
-tagFKSkillDesc12={^S}Utility {^n}{^n}{^w}Instantly decreases the remaining cooldown of all currently recharging skills. ^oDoes not affect itself.
+tagFKSkillName12=Crushing Wind
+tagFKSkillDesc12={^S}Offensive {^n}{^n}{^w}Instantly chills all enemy targets in a wide area, dusrupting their skills and pulling some of them to the Frost Knight.
 tagFKSkillName13=Rime
-tagFKSkillDesc13={^S}Self Buff {^n}{^n}{^w}Surrounds the Frost Knight in a shell of frigid air, chilling and slowing nearest enemies.
+tagFKSkillDesc13={^S}Self Buff {^n}{^n}{^w}Surrounds the caster in a shell of frigid air, chilling and slowing nearest enemies.
 tagFKSkillName13A=Corrosive Rime
 tagFKSkillDesc13A={^S}Modifier {^n}{^n}{^w}Your Rime also poisons and decreases resistances of all enemies in the area of effect.
 tagFKSkillName13B=Crystallize
 tagFKSkillDesc13B={^S}Modifier {^n}{^n}{^w}Increases the area of effect and damage of your Rime.
-tagFKSkillName13C=Deathly Pall
+tagFKSkillName13C=Hypothermia
 tagFKSkillDesc13C={^S}Transmuter {^n}{^n}{^w}Greatly increases the area of effect of your Rime, but its damage is decreased.
 tagFKSkillName14=Heart of Ice
 tagFKSkillDesc14={^S}Utility {^n}{^n}{^w}Strengthens the Frost Knight with the presence of Frost, increasing ^bCold ^w damage and recovering a small amount of health when an enemy is slain.
@@ -112,8 +118,6 @@ tagFKSkillName16A=Winter's Gift
 tagFKSkillDesc16A={^S}Buff {^n}{^n}{^w}Calls upon the power of the winter, bolstering the target's vital and magical energy and granting increased experience for a short duration.
 tagFKSkillName16B=Obliterate
 tagFKSkillDesc16B={^S}Offensive {^n}{^n}{^w}Focuses the power of ice within the Revenant's weapon and unleashes a bone shattering blast at the target, chilling them to the bone and exploding outwards, causing severe damage to adjacent enemies.
-tagFKSkillName17=PH
-tagFKSkillDesc17=PH
 tagPetWraith=Revenant
 
 
@@ -142,8 +146,9 @@ tagDemonSkill02D=Decay
 tagDemonDesc02D={^S}Offensive {^n}{^n}{^w}Desecrates the ground, quickly depleting life forces of any opponents within its area of effect.
 tagDemonSkill03=Foul Growth
 tagDemonDesc03={^S}Utility {^n}{^n}{^w}Sacrifice your own life, boosting health regeneration of your minions for a short time.
-tagDemonSkill03A=Somatic Desecration
-tagDemonDesc03A={^S}Modifier {^n}{^n}{^w}Desecrate your body, causing all your summoned minions to quickly regenerate their energy for a short time.
+tagDemonSkill03A=Frenetic Allegiance
+tagDemonSkill03B=Revenge
+tagDemonDesc03A={^S}Utility {^n}{^n}{^w}Renders the caster invulnerable for a brief time. While active, all your minions generate additional threat and are forced to attack enemies that attack the master.
 tagDemonSkill04=Grievous Mutilation
 tagDemonDesc04={^S}Offensive {^n}{^n}{^w}Teleports to the target in the blink of an eye, causing severe damage to all adjacent enemies. ^oRequires a two-handed melee weapon.
 tagDemonSkill04A=Master's Fervor
@@ -152,9 +157,9 @@ tagDemonSkill04B=Master's Fervor
 tagDemonSkill04C=Bloodlust
 tagDemonDesc04C={^S}Modifier {^n}{^n}{^w}All your summoned minions cause targets to bleed while also replenish a portion of their own life on each attack, for a short time after successful attack with Grievous Mutilation.
 tagDemonSkill05=Tenebrous Distortion
-tagDemonDesc05={^S}Utility {^n}{^n}{^w}The Voidcaller distorts the fabric of reality, nullifying all damage taken for a short time in exchange for a small portion of their own life.
-tagDemonSkill06=Merciless Subjugation
-tagDemonDesc06={^S}Utility {^n}{^n}{^w}Enrages all your summoned minions for a short time at cost of their defenses.
+tagDemonDesc05={^S}Utility {^n}{^n}{^w}The Voidcaller distorts the fabric of reality, causing each enemies' attacks to replenish the caster's life instead.
+tagDemonSkill06=Kill Command
+tagDemonDesc06={^S}Utility {^n}{^n}{^w}Enrages all your summoned minions for a short time, but during that time you deal significantly less damage with all spells and attacks.
 tagDemonSkill07=Grim Fortitude
 tagDemonDesc07={^S}Passive {^n}{^n}{^w}Empowers your minions, boosting their life and regeneration speed.
 tagDemonSkill08=Inexorable Doom
@@ -168,25 +173,28 @@ tagDemonDesc11={^S}Crowd Control {^n}{^n}{^w}Unleashes fury of Chaos at the targ
 tagDemonSkill11A=Empowered Fury
 tagDemonDesc11A={^S}Transmuter {^n}{^n}{^w}Allows to cast Chaos Fury more often, but this skill no longer stuns your enemies.
 tagDemonSkill11B=Embrace of Chaos
-tagDemonDesc11B={^S}Modifier {^n}{^n}{^w}Boosts total damage of your minions after you successfully cast Chaos Fury.
+tagDemonDesc11B={^S}Modifier {^n}{^n}{^w}Imbues your summoned minions with chaotic energies after you successfully cast Chaos Fury.
 tagDemonSkill12=Call of the Void
 tagDemonSkill12A=Flail
-tagDemonDesc12={^S}Self Buff {^n}{^n}{^w}Whenever you kill an enemy, you summon a tentacle that attacks all adjacent enemies for a short time.
+tagDemonDesc12={^S}Self Buff {^n}{^n}{^w}Whenever you kill an enemy, you summon a tentacle that attacks all adjacent enemies for a short time. ^oScales with pet damage bonuses.
 tagDemonSkill13=Entropy
-tagDemonDesc13={^S}Self Buff {^n}{^n}{^w}Surrounds the Voidcaller with the raw power of the Void that slowly depletes life forces of all enemies around the caster and degenerates their natural resistances to damage.
+tagDemonDesc13={^S}Self Buff {^n}{^n}{^w}Surrounds the Voidcaller with the raw power of the Void that slowly depletes the life forces of all enemies around the caster and degenerates their natural resistances to damage.
 tagDemonSkill13A=Devourer of Souls
-tagDemonDesc13A={^S}Modifier {^n}{^n}{^w}While Entropy is active, gives a chance to absorb a slain enemy's soul, boosting the power of entopy around you for a short time.
+tagDemonDesc13A={^S}Modifier {^n}{^n}{^w}While Entropy is active, gives a chance to absorb a slain enemy's soul that restores your own life and energy, and grants minor damage mitigation.
 tagDemonSkill14=Chaos Lash
 tagDemonDesc14={^S}Offensive {^n}{^n}{^w}Strikes the target with the entropic energies of the Chaos, causing {^O}Fire {^W}and {^M}Chaos {^W}damage.
 tagDemonSkill14A=Void Fire
 tagDemonDesc14A={^S}Modifier {^n}{^n}{^w}Creates a fissure on the ground that emits destructive energies of the Chaos.
 tagDemonSkill14B=Reaping Lash
 tagDemonDesc14B={^S}Modifier {^n}{^n}{^w}Your Chaos Lash hits additional targets and drains their life, transfering it to you.
+tagDemonSkill15=Defensive Command
+tagDemonDesc15={^S}Utility {^n}{^n}{^w}Boosts survivability and maximum life of your summoned minions for a short time, but during that time they deal significantly less damage with all spells and attacks.
 
 
 #ClassGroveKeeper
 tagClassEnchName=Grove Keeper
 tagClassEnchDesc=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+tagPetWorm=Deepdweller
 tagPetFaerie=Faerie
 tagEnchSkill01=Barkskin
 tagEnchSkill01B=Entangling Vines
@@ -201,29 +209,31 @@ tagEnchSkill03=Acid Rain
 tagEnchDesc03={^S}Offensive {^n}{^n}{^w}Creates a toxic rain at the targeted location that poisons and slows all enemies it hits.
 tagEnchSkill03A=Toxic Pool
 tagEnchDesc03A={^S}Modifier {^n}{^n}{^w}Creates a toxic pool whenever your Acid Rain hits an enemy. All enemies within its area of effect are immobilized and their armor is significantly reduced.
-tagEnchSkill04=Charm of the Elements
-tagEnchDesc04={^S}AoE Buff {^n}{^n}{^w}Imbues you and your allies with the power of the elements, causing each attack to burn, frostburn, or electrocute your enemies.
-tagEnchSkill04A=Elemental Attunement
-tagEnchDesc04A={^S}Modifier {^n}{^n}{^w}Your Charm of the Elements grants protection against elemental attacks and increases the damage of your attacks that cause burn, frostburn, or electrocute damage.
+tagEnchSkill04=Stone Guardian
+tagEnchSkill04B=Cleave Attack
+tagEnchSkill04C=Ground Smash
+tagEnchDesc04={^S}Summon {^n}{^n}{^w}Summon a stone guardian to protect you and your allies. ^oScales with pet bonuses.
+tagEnchSkill04A=Guardian's Presence
+tagEnchDesc04A={^S}Modifier {^n}{^n}{^w}The Stone Guardian's presence bolsters nearest allies, increasing their defense and resistance to damage.
 tagEnchSkill05=Time Stop
-tagEnchDesc05={^S}AoE Crowd Control {^n}{^n}{^w}Distorts the fabric of reality around the caster, freezing all enemies in time for a short duration.
-tagEnchSkill06=Beacon of Life
-tagEnchDesc06={^S}AoE Utility {^n}{^n}{^w}Emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
-tagEnchSkill07=Beacon of Life
-tagEnchDesc07={^S}Utility {^n}{^n}{^w}Summons a beacon of life at the target location that will periodically heal nearest allies.
-tagEnchSkill07A=Beacon of Life
+tagEnchDesc05={^S}Crowd Control {^n}{^n}{^w}Distorts the fabric of reality around the caster, freezing all enemies in time for a short duration.
+tagEnchSkill06=Well of Life
+tagEnchDesc06={^S}Utility {^n}{^n}{^w}Emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
+tagEnchSkill07=Well of Life
+tagEnchDesc07={^S}Utility {^n}{^n}{^w}Summons a well of life at the targeted location that will periodically heal nearest allies.
+tagEnchSkill07A=Well of Life
 tagEnchSkill08=Surge of Life
-tagEnchDesc08={^S}AoE Utility {^n}{^n}{^w}Grove Keeper emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
+tagEnchDesc08={^S}Utility {^n}{^n}{^w}Grove Keeper emits a wave of life-giving energy that restores lost health to all friendly targets withing its radius.
 tagEnchSkill08A=Hastened Surge
 tagEnchDesc08A={^S}Modifier {^n}{^n}{^w}Allows to cast {^Z}Healing Surge {^W}more often, but at increased energy cost.
 tagEnchSkill09=Lifegiving Veil
-tagEnchDesc09={^S}AoE Buff {^n}{^n}{^w}Protects you and your allies from vile poisons and significantly boosts life regeneration for a short time.
+tagEnchDesc09={^S}Buff {^n}{^n}{^w}Protects you and your allies from vile poisons and significantly boosts life regeneration for a short time.
 tagEnchSkill10=Natural Resilience
-tagEnchDesc10={^S}Passive {^n}{^n}{^w}The Grove Keeper's inherent resistance to damage and vitality-draining magic is unmatched, and even minions under the Grove Keeper's control receive a portion of their defenses.
+tagEnchDesc10={^S}Passive {^n}{^n}{^w}Increases resistance to poison and vitality-draining attacks. All pets under the Grove Keeper's control are resistant to disorienting and mind-controlling effects.
 tagEnchSkill11=Concentration
 tagEnchDesc11={^S}Passive {^n}{^n}{^w}An enhanced state of mind that causes energy to recover faster and diminishes the duration of any skill disruptions.
 tagEnchSkill12=Sigil of Might
-tagEnchDesc12={^S}AoE Buff {^n}{^n}{^w}Creates a magical sigil on the ground for 30 seconds that increases attack and casting speed of allies standing on the sigil, and gives a chance to deal significantly more damage on each attack.
+tagEnchDesc12={^S}Buff {^n}{^n}{^w}Creates a magical sigil on the ground for 30 seconds that increases attack and casting speed of allies standing on the sigil, and gives a chance to deal significantly more damage on each attack.
 tagEnchSkill12A=Sigil of Discord
 tagEnchDesc12A={^S}Modifier {^n}{^n}{^w}Enemies that pass within the area of effect of Sigil of Might may attack their former allies for a short duration, and while within the sigil their damage is reduced.
 tagEnchSkill13=Radiance of Life
@@ -233,6 +243,11 @@ tagEnchSkill14=Nature's Fury
 tagEnchDesc14={^S}Offensive {^n}{^n}{^w}Sends a noxious bolt at the target that explodes on impact, dealing ^GPoison ^Wdamage over time, and causes your enemies to miss with melee and ranged attacks.
 tagEnchSkill14A=Ruin
 tagEnchDesc14A={^S}Modifier {^n}{^n}{^w}Your Nature's Fury has a chance to increase your total poison damage and the damage of your critical hits for a short duration.
+tagEnchSkill14B=Call of Nature
+tagEnchSkill14C=Summon Deepdweller
+tagEnchSkill14D=Vile Spit
+tagEnchSkill14E=Barf
+tagEnchDesc14B={^S}Modifier {^n}{^n}{^w}Your Nature's Fury has a chance to attract a vile worm that will spit poison at your enemies for a short duration. ^oScales with pet bonuses.
 tagEnchSkill15=Keeper of Life
 tagEnchDesc15={^S}Passive {^n}{^n}{^w}Energy of Life that runs trough your veins protects you from foul magic and destructive powers of chaos.
 tagEnchSkill16=Life's Touch
@@ -240,13 +255,15 @@ tagEnchDesc16={^S}Utility {^n}{^n}{^w}A burst of healing energy that restores lo
 tagEnchSkill16A=Life Veil
 tagEnchDesc16A={^S}Modifier {^n}{^n}{^w}When you heal with Life's Touch you apply an absorbing shield for a short time.
 tagEnchSkill17=Resurgence
-tagEnchDesc17={^S}AoE Buff {^n}{^n}{^w}There's always hope! Fully restores lost health and energy to allies, and shields them for a short time.
+tagEnchDesc17={^S}Utility {^n}{^n}{^w}There's always hope! Fully restores lost health and energy to allies, and shields them for a short time.
 tagEnchSkill18=Summon Faerie
 tagEnchSkill18A=Faerie Fire
 tagEnchSkill18B=Nature's Veil
 tagEnchDesc18={^S}Summon {^n}{^n}{^w}Summons a spirit of the forest that debilitates your enemies and bolsters allies. ^oScales with pet bonuses.
 tagEnchSkill19=Venomous Stings
-tagEnchDesc19={^S}Crowd Control {^n}{^n}{^w}Sends forth a wave of poisoned thorns erupting from the ground that envenom all enemies on its path and put them to sleep for a short time.
+tagEnchDesc19={^S}Crowd Control {^n}{^n}{^w}Sends forth a wave of poisoned thorns erupting from the ground that envenom and paralyze all enemies on its path for a short duration.
+tagEnchSkill19A=Withering Blight
+tagEnchDesc19A={^S}Offensive {^n}{^n}{^w}Infects the target with a contagious blight that slowly destroys the target's life and energy over time. Can affect up to 5 nearest enemies.
 tagEnchSkill20=Time Shift
 tagEnchDesc20={^S}Passive {^n}{^n}{^w}When you use any skill you have a chance to instantly reset its cooldown.
 
@@ -339,13 +356,13 @@ tagMercDesc02A={^S}Modifier {^n}{^n}{^w}Your Sacred Hammer deals extra damage to
 tagMercSkill02B=Brutal Throw
 tagMercDesc02B={^S}Modifier {^n}{^n}{^w}Increases the damage done by Sacred Hammer and puts enemies off-balance, causing them to miss with melee and ranged attacks.
 tagMercSkill03=Breaking Blow
-tagMercDesc03={^S}Offensive {^n}{^n}{^w}A ferocious attack that destroys enemies' armor for a short time. {^N}{^C}Usable as your default attack replacement.
+tagMercDesc03={^S}Offensive {^n}{^n}{^w}A ferocious attack that destroys the target's armor for a duration. {^N}{^C}Usable as your default attack replacement.
 tagMercSkill03A=Taunting Strike
-tagMercDesc03A={^S}Transmuter {^n}{^n}{^w}Your Breaking Blow hits more targets at once and causes high amount of threat.
+tagMercDesc03A={^S}Transmuter {^n}{^n}{^w}Your Breaking Blow now hits up to two adjacent enemies.
 tagMercSkill03B=Rupture
 tagMercDesc03B={^S}Modifier {^n}{^n}{^w}Your Breaking Blow inflicts bleeding and internal trauma damage, and disrupts enemies' skills.
 tagMercSkill04=Retribution
-tagMercDesc04={^S}Self Buff {^n}{^n}{^w}Whenever you get hit you have a chance to enter a nemesis state for a short duration, reflecting melee damage back at the attacker.
+tagMercDesc04={^S}Passive {^n}{^n}{^w}Whenever you get hit you have a chance to enter a nemesis state for a short duration, reflecting melee damage back at the attacker.
 tagMercSkill05=Armor Breaker
 tagMercDesc05={^S}Passive {^n}{^n}{^w}Increases your proficiency with blunt weapons and axes, and causes each attack to decrease enemies' armor rating.
 tagMercSkill06=Battle Cry
@@ -387,13 +404,13 @@ tagMercDesc14={^S}Passive {^n}{^n}{^w}Increases your proficiency with blunt weap
 tagMercSkill15=Last Stand
 tagMercSkill15A=Cleanse
 tagMercDesc15={^S}Utility {^n}{^n}{^w}Raises your shield, granting the resolve to hold out against great adversity. Significatly increases your proficiency with a shield and cleans your body and mind on each successful block, dispeling harmful damage over time effects.
-tagMercSkill16=Assault
+tagMercSkill16=Celestial Hammer
 tagMercSkill16A=Torpor
-tagMercDesc16={^S}Crowd Control {^n}{^n}{^w}Charge at the target, petrifying all enemies in a small radius on hit. ^oRequires a melee weapon. When used with a shield, the shield's damage is used.
+tagMercDesc16={^S}Offensive {^n}{^n}{^w}Calls down a celestial hammer from the sky, petrifying all enemies in a small radius on hit. ^oRequires a mace or maul.
 
 #ClassStalker
 tagClassStalkerName=Stalker
-tagClassStalkerDesc=Description
+tagClassStalkerDesc=Using both ranged weapons and eldritch powers of the Aether to attack their enemies, the Stalker controls the battlefield from afar.
 tagStalkerSkill01=Arcane Shot
 tagStalkerDesc01={^S}Offensive {^n}{^n}{^w}Imbues your weapon with the arcane energies, causing each attack to deal additional aether damage and to drain the target's energy, transferring it to you. {^N}{^C}Usable as your default attack replacement.
 tagStalkerSkill01A=Spirit Shards
@@ -419,7 +436,7 @@ tagStalkerDesc04C={^S}Passive {^n}{^n}{^w}Gives a chance to shoot 3 times in a q
 tagStalkerSkill05=Gunslinger
 tagStalkerDesc05={^S}Passive {^n}{^n}{^w}Increases your proficiency with one-handed weapons, and allows to equip one-handed weapon in your left hand.
 tagStalkerSkill05A=Lifebane
-tagStalkerDesc05A={^S}Passive {^n}{^n}{^w}Converts a portion of aether damage to vitality damage. ^ORequires any one-handed weapon.
+tagStalkerDesc05A={^S}Passive {^n}{^n}{^w}Converts physical damage to vitality damage and causes each attack to apply vitality decay over time. ^ORequires any one-handed weapon.
 tagStalkerSkill05B=Tripple Shot
 tagStalkerDesc05B={^S}Passive {^n}{^n}{^w}Gives a chance to shoot 3 projectiles at once. If used with melee weapons, strikes up to 3 adjacent targets. ^ORequires any one-handed weapon.
 tagStalkerSkill05C=Mark For Death
@@ -434,7 +451,7 @@ tagStalkerDesc07={^S}Utility {^n}{^n}{^w}Creates a stationary anti-magic zone at
 tagStalkerSkill08=Chimera Shot
 tagStalkerDesc08={^S}Offensive {^n}{^n}{^w}Sends a bolt of the arcane energy at the target that causes severe {^C}Aether {^W}damage and puts all targets in a small radius to sleep. ^oRequires ranged weapon.
 tagStalkerSkill08A=Prismatic Shot
-tagStalkerDesc08A={^S}Modifier {^n}{^n}{^w}Adds Elemental damage to Chimera Shot and applies random elemental damage over time effect.
+tagStalkerDesc08A={^S}Modifier {^n}{^n}{^w}Adds Elemental damage to Chimera Shot and applies random elemental damage over time.
 tagStalkerSkill08B=Aimed Shot
 tagStalkerDesc08B={^S}Modifier {^n}{^n}{^w}Gives a chance to increase all damage done by Chimera Shot and reset its cooldown on each hit.
 tagStalkerSkill09=Phantom Shot
@@ -450,4 +467,58 @@ tagStalkerSkill11=Trueshot Aura
 tagStalkerDesc11={^S}Self Buff {^n}{^n}{^w}Increases {^H}Piercing {^W}damage and offensive ability of nearby allies.
 tagStalkerSkill11A=Quick Draw
 tagStalkerDesc11A={^S}Modifier {^n}{^n}{^w}Gives a chance on attack to increase your attack speed for a short time.
+tagStalkerSkill12=Aether Grenade
+tagStalkerDesc12={^S}Offensive{^n}{^n}{^w}Throws a magical grenade that puts all enemies in a small radius to sleep upon impact.
 
+
+#CLASS MALEFICAR
+tagClassMaleficarName=Maleficar
+tagClassMaleficarDesc=Maleficar, the accursed one, is a mage who draws on powers that others fear. Their twisted magic allows them to siphon off the vital essence of their opponents, inexorably consuming their victims lives, feeding and empowering the Maleficar.
+tagPetMalefic=Shadow Blast
+tagMaleficSkill00=Shadow Barrier
+tagMaleficDesc00=Creates a protective barrier that absorbs a portion of any damage received.
+tagMaleficSkill01=Agony
+tagMaleficDesc01={^S}Offensive {^n}{^n}{^w}Curses all enemies in a small radius, destroying their lives over time.
+tagMaleficSkill01A=Misery
+tagMaleficDesc01A={^S}Modifier {^n}{^n}{^w}Increases the damage of your Agony and steals its victims health, transferring it to you.
+tagMaleficSkill01B=Deathly Pall
+tagMaleficDesc01B={^S}Modifier {^n}{^n}{^w}Increases the area of effect of your Agony and gives a chance to increase its periodic damage.
+tagMaleficSkill01C=Lasting Pain
+tagMaleficDesc01C={^S}Transmuter {^n}{^n}{^w}Doubles the duration of your Agony, but also increases its energy cost.
+tagMaleficSkill02=Ravaging Darkness
+tagMaleficDesc02={^S}Self Buff {^n}{^n}{^w}Imbues the Maleficar with deathly energies, significantly increasing all damage done for a short duration.
+tagMaleficSkill02A=Terrifying Presence
+tagMaleficDesc02A={^S}Modifier {^n}{^n}{^w}Increases the duration of your Ravaging Darkness, and causes enemies that attack you to flee in fear while Ravaging Darkness is active.
+tagMaleficSkill03=Deep Horror
+tagMaleficDesc03={^S}Crowd Control {^n}{^n}{^w}Fears the target and deals damage over time. May affect up to 6 nearby targets.
+tagMaleficSkill03A=Grief
+tagMaleficDesc03A={^S}Modifier {^n}{^n}{^w}Victims of your Deep Horror are susceptible to your curses.
+tagMaleficSkill04=Dark Nova
+tagMaleficDesc04={^S}Crowd Control {^n}{^n}{^w}Fears all enemy targets near the Maleficar, stealing their vital energy.
+tagMaleficSkill05=Shadeborn
+tagMaleficDesc05={^S}Passive {^n}{^n}{^w}Strengthens your mortal flesh, greatly increasing your physical conditions and the effectiveness of worn armor.
+tagMaleficSkill05A=Nihilism
+tagMaleficDesc05A={^S}Passive {^n}{^n}{^w}Gives a chance to use a skill consuming no energy.
+tagMaleficSkill05B=Seeping Shadows
+tagMaleficDesc05B={^S}Passive {^n}{^n}{^w}Gives a chance to deal increased damage with your spells and abilities.
+tagMaleficSkill06=Anti-Magic Shield
+tagMaleficDesc06={^S}Self Buff {^n}{^n}{^w}Protects the Maleficar with a magical shield that absorbs all incoming magic damage.
+tagMaleficSkill06A=Rampant Shield
+tagMaleficSkill06B=Paralysis
+tagMaleficDesc06A={^S}Modifier {^n}{^n}{^w}While Anti-Magic Shield is active, your life and energy regeneration is increased. Enemies that attack you with spells and ranged attacks are petrified.
+tagMaleficSkill07=Shadow Form
+tagMaleficSkill07A=Shadow Blast
+tagMaleficSkill07B=Shadow Blast
+tagMaleficDesc07={^S}Self Buff {^n}{^n}{^w}Assume a form of a shadow, granting protection against slowing effect. Your attacks or skills have a chance to summon a violent blast of negative energy at your victim's position, causing moderate damage and petrifying all enemies in a small radius.
+tagMaleficSkill08=Decaying Flesh
+tagMaleficDesc08={^S}Offensive {^n}{^n}{^w}Curses all enemies in a small radius, dealing internal trauma and bleeding damage.
+tagMaleficSkill08A=Necrosis
+tagMaleficDesc08A={^S}Modifier {^n}{^n}{^w}Cursed enemies deal significantly less damage with their attacks and abilities.
+tagMaleficSkill08B=Blackout
+tagMaleficDesc08B={^S}Modifier {^n}{^n}{^w}Your Decaying Flesh has a chance to cause Blackout effect, increasing your damage for a short time.
+tagMaleficSkill09=Entropic Embrace
+tagMaleficDesc09={^S}Self Buff {^n}{^n}{^w}Imbues the Maleficar with deathly energies for a short duration, decreasing incoming damage and stealing life of any opponent attacking you.
+tagMaleficSkill09A=Obfuscation
+tagMaleficDesc09A={^S}Modifier {^n}{^n}{^w}Controls over minds of your enemies, forcing them to attack their former allies.
+tagMaleficSkill10=Essence Drain
+tagMaleficDesc10={^S}Offensive {^n}{^n}{^w}Siphons off the vital essence of the target and reduces the target's damage by 50%. {^N}{^C}Must be channeled to maintain.

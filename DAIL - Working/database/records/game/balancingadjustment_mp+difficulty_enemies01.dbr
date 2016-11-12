@@ -1,7 +1,7 @@
 templateName,database/templates/attributepak.tpl,
 ActorName,,
 Class,AttributePak,
-FileDescription,corn,
+FileDescription,,
 characterArmorDexterityReqReduction,,
 characterArmorIntelligenceReqReduction,,
 characterArmorStrengthReqReduction,,

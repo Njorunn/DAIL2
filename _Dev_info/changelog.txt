@@ -29,6 +29,10 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+[59 11/10/2016]
+Update - Lost Treasures 022.b
+
+Update - Dawn of Heroes 3.6
 
 [59 11/9/2016]
 Purge - Working dir
@@ -49,13 +53,9 @@ Inquiry - DGA file integrity
 Inquiry - GDE file integrity
 	No lower pantheon?
 	
-Update - NCFF Cenobite (again)
-	Shield Bash and Healing touch changes dev intention
-
+Update - NCFF 1.23
+	
 [58.3 11/6/2016]
-Revert - Cenobite (#28) 
-	Shield Bash - pulled from back-up
-	Healing Touch - pulled from back-up
 	
 Fixed - BoC Portal
 	Wavespawn.lua removed from main.lua

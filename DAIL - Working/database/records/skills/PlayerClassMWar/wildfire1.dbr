@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+ActorName,,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,,
+buffSkillName,records/skills/playerClassMWar/wildfire1_buff.dbr,
+projectileNames,records/fx/skillsother/projectile/aether_cannonball_projectilefx01.dbr,

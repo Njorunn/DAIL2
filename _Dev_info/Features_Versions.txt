@@ -33,7 +33,7 @@ Darkest Dawn [1.1] - Kir4
 	Arch-Necromancer
 	Illusionist
 
-Dawn of Heros [3.4] - 3JIou
+Dawn of Heros [3.6] - 3JIou
 	http://www.grimdawn.com/forums/showthread.php?t=40542
 	Frost Knight
 	Priest
@@ -89,7 +89,7 @@ Grim Dawn: Eternal [0.977] - PrincessLuna
 GAME CHANGES
 ****************
 
-Reroll - Asylum101
+ItemRecycler - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?p=446703#post446703
 	{Item lottery}
 
@@ -137,7 +137,7 @@ Sound of Dawn [1.0] - Gazatus(Parked)
 	Passive content
 	{This mod adds 35 mins of lorefriendly music to the original content.
 
-Lost Treasures [0.2] - Okami29
+Lost Treasures [0.22b] - Okami29
 	http://www.grimdawn.com/forums/showthread.php?t=42534
 	Item improvement
 	{Add new Models and textures for weapons.

@@ -8,7 +8,7 @@ Enumeration Reference Sheet
 12		zenithclass02		Elementalist
 13		zenithclass01		Terror Knight
 14		class14				Arch Necro
-15		class15				Illusionist
+15		class15				Illusionist (Mystic Warrior)
 16		Defense				Defense
 17		Hunting				Hunting
 18		Spirit				Spirit
@@ -20,7 +20,7 @@ Enumeration Reference Sheet
 24		Dream				Dream
 25		Demonology			Voidcaller
 26		Enchanter			Enchanter
-27		ClassEngineer		Engineer
+27		ClassEngineer		Engineer (Mercenary)
 28		class28				Cenobite
 29		class29				Witch Doctor (Arlequin)
 30		ClassDemonHunter	Demon Hunter

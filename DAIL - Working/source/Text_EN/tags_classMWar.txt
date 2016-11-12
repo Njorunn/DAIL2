@@ -1,0 +1,60 @@
+
+#Class Mystic Warrior
+#ENUMERATION 15
+
+
+tagSkillClassDescMWar=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n ^n ^kMystic warriors are former soldiers or individuals with extensive military training, which doomed them to be among the first targets of the aetherials. During the battle of their mind the mystic warriors learned to tap into the power of the aether, allowing them to resist the possesion. After the freedom they realized they can use aetherial energy whenever they want.
+
+tagClassMWarSkillName00=Mystic Warrior
+tagClassMWarSkillDescription00=Aetherial attunement
+
+tagClassMWarSkillName01A=Aetherial Strike
+tagClassMWarSkillDescription01A=The mystic warriors combine aetherial energy with all they attacks.
+tagClassMWarSkillName01C=Soulflay
+tagClassMWarSkillDescription01C=A concentrated attack that weakens the enemy and steals their energy.
+tagClassMWarSkillName01D=Shadow Daze
+tagClassMWarSkillDescription01D=In the heat of battle the mystic warriors use this technique to daze the enemy, allowing them to control the fight.
+
+tagClassMWarSkillName02A=Dreadnaught Stance
+tagClassMWarSkillDescription02A=With this stance the mystic warrior slow down to concentrate on his defense.
+tagClassMWarSkillName02B=Superiority
+tagClassMWarSkillDescription02B=The extreme oncentration gives the mystic warrior superiority in the fight.
+
+
+tagClassMWarSkillName03A=Military Training
+tagClassMWarSkillDescription03A=The mystic warriors never forget their military training.
+
+tagClassMWarSkillName04A=Wizardry
+tagClassMWarSkillDescription04A=The mystic warriors embrace the way of magic.
+
+tagClassMWarSkillName05A=Wildfire
+tagClassMWarSkillDescription05A=The mystic warriors use their knowledge to enhance a simple fire magic with aetherial energy.
+tagClassMWarSkillName05B=Inflammation
+tagClassMWarSkillDescription05B=The intense heat sets the enemies on fire.
+tagClassMWarSkillName05C=Flashpoint
+tagClassMWarSkillDescription05C=A small explosion can lead to a bigger explosion.
+
+tagClassMWarSkillName06A=Avenging Spirit
+tagClassMWarSkillDescription06A=When hurt the mystic warriors will remember their possession and the anger will empower them.
+
+tagClassMWarSkillName07A=Demon Armor
+tagClassMWarSkillDescription07A=The mystic warriors are using pieces of vanquished demons to strengthen their armor.
+
+tagClassMWarSkillName08A=Bladewind
+tagClassMWarSkillDescription08A=The power of aether can manifest arround the mystic warrior like a tornado, swirling arround steel blades.
+tagClassMWarSkillName08B=Aetherial Shards
+tagClassMWarSkillDescription08B=Switching the blades with aetherial shards.
+tagClassMWarSkillName08C=Peak Flow
+tagClassMWarSkillDescription08C=When the wind flow is at the highest speed it can cause a devastating blow.
+
+tagClassMWarSkillName09A=Guardian Stance
+tagClassMWarSkillDescription09A=A battle technique that mystic warriors use with their shields when there is a danger from afar.
+
+tagClassMWarSkillName10A=Aetherial Spark
+tagClassMWarSkillDescription10A=The strikes imbued with aeatherial energy can cause a powerful sparks that can jump to adjacent enemy.
+
+tagClassMWarSkillName11A=Prismatic Strike
+tagClassMWarSkillDescription11A=The mystic warrior concentrate his next hit into a single blow imbued with magic.
+
+tagClassMWarSkillName12A=Mattermorphosis
+tagClassMWarSkillDescription12A=When the aetherial energy flow is so intense the mystic warriors can channel it to enchant their weapons and spells.
