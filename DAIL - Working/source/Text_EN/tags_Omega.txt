@@ -265,6 +265,10 @@ tagOMkatanaMI=Omega katana
 tagOMkatanaMIDesc=The Ultimate weapon.Use it's ability to build unseen combos !
 #OmegaNPC
 tagOMnpcQuestGiver=Kamui Shiro, Omega quest giver
+tagOMnpcQuestGiver1=Kamui Shiro, version 1
+tagOMnpcQuestGiver2=Kamui Shiro, version 2
+tagOMnpcQuestGiver3=Kamui Shiro, version 3
+tagOMnpcQuestGiver4=Kamui Shiro, version 4
 tagOMnpcQuestMerchant=Mokona Modoki, Omega orb merchant
 tagOMnpcQuestReseter=Sorata Arisugawa, Omega Orb resetter
 

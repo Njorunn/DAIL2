@@ -1,7 +1,7 @@
 templateName,database/templates/ingameui/skillbutton.tpl,
 ActorName,,
 Class,,
-FileDescription,,
+FileDescription,WTF is this?!,
 skillName,records/skills/frostknightclass/frostshell_mod.dbr,
 skillOffsetX,4,
 skillOffsetY,4,

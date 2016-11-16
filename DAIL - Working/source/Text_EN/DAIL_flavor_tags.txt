@@ -7,20 +7,20 @@ tagGrimmestReanimatorHeroH04defender=Azgaloggest, this Defender Has No Name
 tagGrimmestSamtarian_the_half=^pSamtarian, the Half-... 
 
 
-tagNPC_Guard_Kath=Kathanious - ^oDavoodian Acolyte
+tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 
-tagQuests=Active Quests (59)
+tagQuests=Active Quests (60 SX)
 
 #Top Left UI tag
-#tagRDifficultyTitle01=Normal 59
-#tagRDifficultyTitle02=Elite 59
-#tagRDifficultyTitle03=Ultimate 59
-#tagChallengeDifficulty=Veteran 59
-#tagHardcore=Hardcore 59
+tagRDifficultyTitle01=Normal SX
+tagRDifficultyTitle02=Elite SX
+tagRDifficultyTitle03=Ultimate SX 
+tagChallengeDifficulty=Veteran SX
+tagHardcore=Hardcore SX
 
 #Survival Header
-tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 59)
-tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 59)
+tagLocation=Edge of the World ^r(Eternal Version 0.977)^r(DAIL 60)
+tagLocation2=Forgotten Garden ^r(Eternal Version 0.977)^r(DAIL 60)
 
 
 #Transmorg Smith
