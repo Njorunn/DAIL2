@@ -63,11 +63,11 @@ local player = Game.GetLocalPlayer()
 		player:GiveToken("DISMANTLING_UNLOCKED")
 	end
 	
-	if (player:HasToken("FACTIONS_SET_FIX3") == false) then
-		player:GrantQuest(0x8F577200, 0xB6143900)
-		player:GetQuestTaskState(0x8F577200, 0xB6143900)
-		player:GiveToken("FACTIONS_SET_FIX3")
-	end
+	-- if (player:HasToken("FACTIONS_SET_FIX3") == false) then
+	--	player:GrantQuest(0x8F577200, 0xB6143900)
+	--	player:GetQuestTaskState(0x8F577200, 0xB6143900)
+	--	player:GiveToken("FACTIONS_SET_FIX3")
+	-- end
 	
 	if (player:HasToken("ASCEND_0") == false) then
 		player:GiveToken("ASCEND_0")
