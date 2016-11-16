@@ -31,12 +31,11 @@ function ltreasures.ononeshotremoved(objectId,place)
 	local coords = Entity.Get(objectId):GetCoords()
 	local player = Game.GetLocalPlayer()
 	print("ok table and coords =",coords)
-	math.randomseed(Time.Now());
 	if Game.GetGameDifficulty() >= Game.Difficulty.Legendary then
 		print("Difficulty is Ultimate")
 		math.randomseed(Time.Now());
-		local randomizer = random(1,totalGuards);
-		print("randomizer",randomizer,"killedltguard=",killedltguard)
+		local randomizer = math.random(1,totalGuards);
+		print("randomizer",randomizer,"killedltguard=",killedltguard,"TimeNow=",Time.Now())
 		local spawn = Character.Create (ltguardDBRs[randomizer], CharacterCreateArgs())
 		spawn:SetCoords(coords)
 		print("Coords x MAJOR",coords.xAxis.x)
@@ -49,8 +48,8 @@ function ltreasures.ondieguardian(objectId)
 		print("ondieguardian coords=",coords)
 		killedltguard = killedltguard+1
 		UI.Notify(ltnotificationkills[killedltguard])
-		math.randomseed(Time.Now());
-		local randomizer01 = random(1,100);
+		--math.randomseed(Time.Now());
+		local randomizer01 = math.random(1,100);
 		local randomizerbonus = randomizer01 + ltspawnbonus[killedltguard]
 		print("randomizer01 =",randomizer01,"randomizernonus=",randomizerbonus,"spawnedltguardU=",spawnedltguardU)
 		if randomizerbonus > 98 and spawnedltguardU < 3 then

@@ -171,3 +171,28 @@ end
 function omega.scripts.onopenchestundead()
 	omega.scripts.onopenchestnemesis('records/omega/creatures/om_spawnerpet_undead.dbr');
 end
+
+-----Function Replacement NPC Omega Quest giver Kamui
+
+local OmegaNPCSDBRs = { "records/creatures/npcs/guard/guard_dc_melee02.dbr", "records/omega/creatures/npc/omega_npc_questgiver1.dbr", "records/omega/creatures/npc/omega_npc_questgiver2.dbr","records/omega/creatures/npc/omega_npc_questgiver3.dbr",'records/omega/creatures/npc/omega_npc_questgiver4.dbr','records/omega/creatures/npc/omega_npc_questgiver5.dbr' }
+
+function omega.scripts.QuestGiveronAddToWorld(objectId)
+	print("QuestGiveronAddToWorld  objectId ",objectId)
+	if Server then
+		omegaNPCId = objectId;
+	end
+	
+end
+
+
+function omega.scripts.omegaNPCSwap(NumNPC)
+		--if NumNPC == nil then NumNPC=1 end
+		local OmegaNPC01 = Entity.Get(omegaNPCId);
+		print("OmegaNPC01 ",OmegaNPC01)
+		if OmegaNPC01 != nil then
+			OmegaNPCCoords=OmegaNPC01:GetCoords()
+			OmegaNPC01:Destroy()
+			local newOmegaNPC = Entity.Create(OmegaNPCSDBRs[NumNPC]);
+			newOmegaNPC:SetCoords(OmegaNPCCoords);
+		end
+end

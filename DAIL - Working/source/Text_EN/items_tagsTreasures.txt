@@ -51,7 +51,7 @@ tagT_summonsword_atackDesc=Teleport to the target and deals weapon damage in a 1
 tagT_skill_olympus=Olympus protection
 tagT_skill_olympusDesc=You are protected for a short duration
 tagT_skill_mjolnir=Mjolnir golden hammers
-tagT_skill_mjolnirDesc=Piercing, golden hammer orbit around you and create even more hammers farther on critical attack.
+tagT_skill_mjolnirDesc=Piercing, golden hammer orbit around you for 15 seconds and create even more hammers farther on critical attack.
 tagT_skill_chaoseater=Chaoseater explosion
 
 
@@ -61,8 +61,8 @@ tagT_guardian01=Treasure Guardian: Riftsnout ~ Voidtouched- PrincessLuna's follo
 tagT_guardian02=Treasure Guardian: Waban'Ak- Somerled's follower
 tagT_guardian03=Treasure Guardian: Festerlis ~ Bruiser- LuxDelux's follower
 tagT_guardian04=Treasure Guardian: Faldrak ~ Reflective- Salan's follower
-tagT_guardian05=Treasure Guardian: Intesius
-tagT_guardian06=Treasure Guardian: Wrathclaw ~ Corrupted
+tagT_guardian05=Treasure Guardian: Intesius - Kathanious's follower
+tagT_guardian06=Treasure Guardian: Wrathclaw ~ Corrupted - Irenicus's follower
 tagT_guardian07=Treasure Guardian: Sarmaz'Din ~ Frozen
 tagT_guardian08=Treasure Guardian: GurgothSiin ~ Burning
 tagT_guardian09=Treasure Guardian: Yakwa'Anatu ~ Unstoppable
