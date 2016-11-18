@@ -22,7 +22,7 @@ Script.Load("scripts/Omega_Mod/Omega_Mod.lua")
 Script.Load("scripts/LostTreasures/LostTreasures.lua")
 
 --Eternal
--- Script.Load("scripts/game/wavespawn.lua")
+Script.Load("scripts/game/wavespawn.lua")
 
 -- Wanez - MOD
 -- Script.Load("wanez/scripts/main.lua")
