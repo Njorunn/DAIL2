@@ -33,7 +33,7 @@ Darkest Dawn [1.1] - Kir4
 	Arch-Necromancer
 	Illusionist (Parked)
 
-Dawn of Heros [3.7] - 3JIou
+Dawn of Heros [3.8] - 3JIou
 	http://www.grimdawn.com/forums/showthread.php?t=40542
 	Frost Knight
 	Priest
@@ -103,8 +103,7 @@ Grimmer and Grimmest [DAIL Variation] - Jiaco
 	{Each proxypool was altered to specifically increase monsters in the champion slots.
 	{All quest&boss, deathspawn, and faction proxypools as well as a number of other pools from the depths of area001 were 
 	{manually "curated" adding Heroes and adjusting spawn weights for a more challenging encounter.
-	{Lua scripts determining level of NPC-turned-enemy spawns were adjusted to always spawn slightly above playerLevel.
-	
+		
 Legendary Cap Remover [2.1] - NateATON
 	http://www.grimdawn.com/forums/showthread.php?t=37957
 	Item improvement
