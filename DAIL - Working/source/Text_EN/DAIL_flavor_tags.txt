@@ -14,7 +14,7 @@ tagQuests=Active Quests (60 SX)
 #Top Left UI tag
 tagRDifficultyTitle01=Normal SX
 tagRDifficultyTitle02=Elite SX
-tagRDifficultyTitle03=Ultimate SX 
+tagRDifficultyTitle03=Ultimate SX
 tagChallengeDifficulty=Veteran SX
 tagHardcore=Hardcore SX
 

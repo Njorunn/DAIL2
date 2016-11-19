@@ -193,7 +193,9 @@ tagDemonDesc15={^S}Utility {^n}{^n}{^w}Boosts survivability and maximum life of 
 
 #ClassGroveKeeper
 tagClassEnchName=Grove Keeper
+tagClassENCH=Grove Keeper
 tagClassEnchDesc=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
+tagClassDescENCH=Grove Keepers are well-known supporters, whose presence on the battlefield may turn the tide of every fight. They utilize the forces of life and nature to shield allies, enhance their fighting capabilities, and restore lost health.
 tagPetWorm=Deepdweller
 tagPetFaerie=Faerie
 tagEnchSkill01=Barkskin
