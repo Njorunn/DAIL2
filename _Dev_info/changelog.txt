@@ -1,25 +1,19 @@
-Edit [11/15/2016 18:00] K
+Edit [11/18/2016 00:00] K
 
 ****************************************************************
 ****************************************************************
 
-Working Version: 60
 
-In Play:
-********
-NG	60
-B	60
-S	60
-X	60
-SX	60
-DGA	60
-GDE	60
-********
+Working Version: 60.2
+
+In Play: 60.1
+
 
 To Do:
 ********
 
 Post 50 mastery investment inquiries
+Update - Omega 0.68
 Update - DGA 0.5 (Xmas)
 Update - Zenith (New fx and class) (Xmas)
 Update - Cornucopia 0.3.3(Xmas) (Will include 1.0.0.6 new items)
@@ -30,6 +24,15 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+[60.2 11/18/2016]
+Fixed - Malepc01.dbr class28 typo
+
+[60.1 11/18/2016]
+Update - Dawn of Heroes 3.9
+
+Fixed - Missing Grover Keeper assets
+
+Fixed - Incorrect mob challenge in B and S
 
 [60 11/17/2016]
 Update - Dawn of Heroes 3.8
