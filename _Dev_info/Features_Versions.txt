@@ -21,7 +21,7 @@ Engineer [1.7] - Koba0100 (Parked)
 Coronus [2.0] - Somerled		
 	http://www.grimdawn.com/forums/showthread.php?t=38405
 
-NCFF [1.10] - cftx										
+NCFF [1.23] - cftx										
 	http://www.grimdawn.com/forums/showthread.php?t=38158
 	Necromancer
 	Ranger
@@ -33,7 +33,7 @@ Darkest Dawn [1.1] - Kir4
 	Arch-Necromancer
 	Illusionist (Parked)
 
-Dawn of Heros [3.8] - 3JIou
+Dawn of Heros [3.9] - 3JIou
 	http://www.grimdawn.com/forums/showthread.php?t=40542
 	Frost Knight
 	Priest
