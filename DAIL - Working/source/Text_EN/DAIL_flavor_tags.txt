@@ -9,7 +9,29 @@ tagGrimmestSamtarian_the_half=^pSamtarian, the Half-...
 
 tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
 
-tagQuests=Active Quests (60 NG)
+#Loading Tips
+tagLoadingTip01=
+tagLoadingTip02=
+tagLoadingTip03=
+tagLoadingTip04=
+tagLoadingTip05=
+tagLoadingTip06=
+tagLoadingTip07=
+tagLoadingTip08=
+tagLoadingTip09=
+tagLoadingTip10=
+tagLoadingTip11=
+tagLoadingTip12=
+tagLoadingTip13=
+tagLoadingTip14=
+tagLoadingTip15=
+tagLoadingTip16=
+tagLoadingTip17=
+tagLoadingTip18=
+tagLoadingTip19=
+tagLoadingTip20=
+
+tagQuests=Active Quests (60.2 NG)
 
 #Top Left UI tag
 tagRDifficultyTitle01=Normal NG

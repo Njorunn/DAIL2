@@ -13,7 +13,8 @@ To Do:
 ********
 
 Post 50 mastery investment inquiries
-Update - Omega 0.68
+Update - GQ
+Update - Omega 
 Update - DGA 0.5 (Xmas)
 Update - Zenith (New fx and class) (Xmas)
 Update - Cornucopia 0.3.3(Xmas) (Will include 1.0.0.6 new items)
@@ -24,6 +25,11 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+
+
+[60.2 11/20/2016]
+Fixed - Adjustment dbr for (B) and (S) modes
+
 [60.2 11/18/2016]
 Fixed - Malepc01.dbr class28 typo
 
