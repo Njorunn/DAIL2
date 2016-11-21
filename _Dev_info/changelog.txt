@@ -1,12 +1,12 @@
-Edit [11/18/2016 00:00] K
+Edit [11/20/2016 20:00] K
 
 ****************************************************************
 ****************************************************************
 
 
-Working Version: 60.2
+Working Version: 60.4
 
-In Play: 60.1
+In Play: 60.3
 
 
 To Do:
@@ -14,10 +14,8 @@ To Do:
 
 Post 50 mastery investment inquiries
 Update - GQ
-Update - Omega 
-Update - DGA 0.5 (Xmas)
-Update - Zenith (New fx and class) (Xmas)
-Update - Cornucopia 0.3.3(Xmas) (Will include 1.0.0.6 new items)
+Update - DGA 0.5 
+Update - Cornucopia 0.3.3 (Will include 1.0.0.6 new items)
 Fix - Relic weapon reqs?
 Update - Skills for staff/spear?
 
@@ -25,9 +23,15 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+[60.4 11/20/2016]
+Update - Zenith 0.5
 
+[60.3 11/20/2016]
+Fixed - Missing DoH controllers
 
 [60.2 11/20/2016]
+Update - Omega 0.7
+
 Fixed - Adjustment dbr for (B) and (S) modes
 
 [60.2 11/18/2016]

@@ -31,9 +31,11 @@ tagLoadingTip18=
 tagLoadingTip19=
 tagLoadingTip20=
 
-tagQuests=Active Quests (60.2 NG)
+tagQuests=Active Quests (60.4 NG)
 
 #Top Left UI tag
+
+
 tagRDifficultyTitle01=Normal NG
 tagRDifficultyTitle02=Elite NG
 tagRDifficultyTitle03=Ultimate NG

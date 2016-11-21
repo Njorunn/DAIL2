@@ -18,15 +18,6 @@
 #CLASS MALEFICAR
 
 #Masteries
-#tagClassFKName=^gFrost Knight
-tagClassNameFK=^gFrost Knight
-tagClassDemonName=^pVoidcaller
-tagClassEnch=^pGrove Keeper
-tagClassEnchName=^pGrove Keeper
-tagClassMage=^iMage
-tagClassStaker=^iStalker
-tagClassMercName=^fMercenary
-tagClassMerc=^fMercenary
 
 #Descriptions
 tagSkillClassFKDesc=Frost Knights boast powerful melee abilities, and trained to use heavy armors and two-handed melee weapons. These warriors supplement their strength with frost magic. 
