@@ -42,7 +42,7 @@ Dawn of Heros [3.9] - 3JIou
 	Stalker (Parked)
 	Malificar (Parked)
 
-Grim Quest [1.4] - Asylum101
+Grim Quest [1.4.4] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?t=39503
 	Spirit
 	Hunting
@@ -55,12 +55,13 @@ Grim Quest [1.4] - Asylum101
 	Storm
 	Dream
 
-Zenith [0.3] - Ceno										
+Zenith [0.5] - Ceno										
 	http://www.grimdawn.com/forums/showthread.php?t=40486
 	Terror Knight
 	Elementalist
 	Outrider (Parked)
 	Riftwalker (Parked)
+	Necrotic (Parked)
 	
 D3 Influenced - Grimer
 	Demon Hunter [2.0]	http://www.grimdawn.com/forums/showthread.php?t=45271
@@ -96,7 +97,7 @@ ItemRecycler [0.1] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?p=446703#post446703
 	{Item lottery at smith}
 
-Grimmer and Grimmest [DAIL Variation] - Jiaco
+Grimmer and Grimmest [DAIL Variation][1.0] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
@@ -146,7 +147,7 @@ Lost Treasures [0.24] - Okami29
 	{New crafting recipes, legendaries weapons, new monsters dropping those recipes /reagents/weapons.
 	{Weapons will give new skills or have procs.
 
-Omega [0.67] - Okami29
+Omega [0.70] - Okami29
 	http://www.grimdawn.com/forums/showthread.php?t=37935
 	End-game quests
 	{Increase end-game content : new quests, items,buffs, unique boss. 

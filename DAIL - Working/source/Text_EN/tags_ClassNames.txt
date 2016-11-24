@@ -13,7 +13,7 @@ tagSkillClassName09=^pCoronus
 tagSkillClassNameCoronus=^pCoronus
 tagSkillClassName10=^YFangshi
 tagSkillClassName11=^gFrost Knight
-tagSkillClassNameFrostKnight=^gFrost Knight
+tagSkillClassNameFK=^gFrost Knight
 tagSkillClassName12=^lElementalist
 tagSkillClassName13=^lTerror Knight
 tagSkillClassName14=^gArch Necromancer
@@ -37,7 +37,6 @@ tagClassName06=^bRogue
 tagClassName07=^bEarth
 tagClassName08=^bStorm
 tagClassName09=^bDream
-
 tagSkillClassName25=^pVoidcaller
 tagSkillClassNameDemon=^pVoidcaller
 tagSkillClassName26=^pGrove Keeper
@@ -61,3 +60,4 @@ tagSkillClassNameDH=^iDemon Hunter
 #Riftstalker
 #tagSkillClassName15=^gIllusionist
 #tagSkillClassName27=^pEngineer
+#Necrotic

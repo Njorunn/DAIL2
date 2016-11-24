@@ -1,0 +1,49 @@
+DAIL - Working
+	Delete database/proxies 
+	Delete database/entities
+	Delete database/level art
+	Delete database/DAIL - Working.arz
+	Delete resources
+	Null source/scripts/main.lua
+		dga and gde script entry
+
+Insert NG Uniques
+
+Edit Text_EN/dail_flavor_tag.txt
+	Set mode display NG 
+
+Build 
+
+Test Play
+
+Generate Build Folders
+
+Populate Built Resources
+
+Execute GQmerge Function
+	Populate Pack Resources
+	Text_EN to ng 
+	
+Insert Mode Uniques Into Build Folders
+
+Edit Text_EN/dail_flavor_tag.txt
+	Set mode display Campaign type
+	
+Active source/scripts/main.lua
+	dga and gde script entry 
+	
+Build All modes
+
+Populate Package Folders
+	Mode arz
+	Mode Text_EN
+	
+Execute NSIS packaging
+
+Upload - Release
+	
+
+
+
+
+

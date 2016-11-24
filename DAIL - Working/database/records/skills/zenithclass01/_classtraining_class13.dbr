@@ -1,7 +1,7 @@
 templateName,database/templates/skill_mastery.tpl,
 ActorName,,
 Class,Skill_Mastery,
-FileDescription,Soldier,
+FileDescription,Terror Knight,
 MasteryEnumeration,SkillClass13,
 skillDisplayName,tagClass13SkillName00A,
 skillBaseDescription,tagClass13SkillDescription00A,

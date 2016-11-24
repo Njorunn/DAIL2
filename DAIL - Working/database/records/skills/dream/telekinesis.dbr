@@ -1,7 +1,7 @@
 templateName,database/templates/skill_attackprojectileareaeffect.tpl,
 ActorName,SpiritMastery_LifeLeech,
 Class,Skill_AttackProjectileAreaEffect,
-FileDescription,Lapse,
+FileDescription,unused,
 skillProjectileName,records/xpack/skills/dream/drxeffects/lapse_projectile.dbr,
 skillProjectileMaximumNumber,,
 skillActiveDuration,,

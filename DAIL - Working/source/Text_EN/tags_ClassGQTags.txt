@@ -760,4 +760,153 @@ tagRace
 015P=Arachnids
 
 //new skills//
+NEW Skills:
+//Defense//
+tagHackNAME=Hack
+tagHackDESC=Improves penetration when using axes, and adds a chance that axe attacks will chop through enemy armor. ^o Requires an axe.
+tagCleaveNAME=Cleave
+tagCleaveDESC=A savage axe attack that strikes twice, landing both hands each time for a total of four hits. ^o Requires an axe.
+tagHeaveNAME=Heave
+tagHeaveDESC=A slow and brutal attack that devastates your enemies. ^o Requires a mace.
+tagShieldTrainingNAME=Shield Training
+tagShieldTrainingDESC=Years of training allow you to utilize shields for a greater defensive advantage. ^o Requires a shield.
+
+//hunting//
+tagSpearTempestNAME=Spear Tempest 
+tagSpearTempestDESC=Execute a whirling attack so fast and complex that enemies are caught off guard. ^o Requires a spear.
+tagFlayerNAME=Flayer
+tagFlayerDESC=With snake-like control of your body, you can coil greater tension into your muscles and strike with precision and shrug off lesser blows.
+tagJavelinNAME=Javelin Toss
+tagJavelinDESC=Hunters are known for their ability to adapt in all situations. Being unprepared to a fight is ill-advised, always carry backup javelins just in case your prey is too dangerous to deal with in close quarters.
+tagSerpentStrikeNAME=Serpent Strike
+tagSerpentStrikeDESC=Adds a chance to attack twice in a fraction of a second. Also allows the hunter to equip a secondary pistol, if they so choose. ^o Requires a spear or ranged weapon. 
+tagBestialHowlNAME=Beastial Howl
+tagBestialHowlDESC=Using a spear rather than a ranged hunting weapon brings one closer to the animals they hunt. Some say these spear hunters are even capable of scaring off the mightiest of beasts. ^o Requires a spear.
+tagBurstShotNAME=Burst Shot
+tagBurstShotDESC=Fires several shots in a wide area.
+tagArrowCurtainNAME=Curtain of Arrows
+tagArrowCurtainDESC=Fires a signal shot into the sky, alerting other hunters of your presence and requesting aid to fire upon your enemies.
+
+//Spirit//
+tagAetherboltNAME=Aetherial Bolt
+tagAetherboltDESC=Through your very essence, you raze a path ahead of you, blasting a bolt of unearthly magic through the bodies of those who would stand in your way.
+tagMortalConduitNAME=Mortal Conduit
+tagMortalConduitDESC=Allows your bolts to consume energy and transfer back life from the damage dealt.
+tagDreadDischargeNAME=Dread Discharge
+tagDreadDischargeDESC=Allows the caster to emit several aetherial orbs rather than a singular one.
+tagBonefiendNAME=Bone Fiend
+tagBonefiendDESC=The Bone Fiend is a horror so ancient, it's name has been forgotten. It draws its power from the souls of the Dead, which it insatiably channels directly from the river Styx itself. ^o Only one Bonefiend can be summoned at any time. The Bonefiend scales with Pet Bonuses.
+tagBoneclaws=Bone Claws
+tagBoneSpiritShot=Spirit Shot
+tagBoneSpiritBreath=Spirit Breath
+tagBonePound=Pound
+tagSummonSkeletonNAME=Skeletal Soldiers
+tagSummonSkeletonDESC=The most murderous Dead are the most eager to return to the land of the living. Even a novice can lure these malevolent souls into servitude. ^o Skeletal Soldiers scale with Pet Bonuses. At higher levels more Skeletons can be controlled at once.
+tagSkellyShieldSmackNAME=Shield Slam
+tagRelentlessNAME=Relentless Evil
+tagRelentlessDESC=Grants skeletal soldiers the ability to empower themselves with the very carnage they wreak.
+tagDiffusionNAME=Diffusion
+tagDiffusionDESC=Softens the constitution of nearby enemies, draining their energy and causing them to bleed through their pores.
+tagWitherNAME=Wither
+tagWitherDESC=Life itself recedes from the caster, causing enemies within the domain to waste away.
+tagMiasmaNAME=Insidious Miasma
+tagMiasmaDESC=Noxious vapors emanate from the caster, devitalizing enemies and leaving them vulnerable to parasitic attacks.
+tagTerrorShroudNAME=//not sure if this is needed
+tagTerrorShroudDESC=//not sure if this is needed
+tagGraspingDeadNAME=Grasping Dead
+tagGraspingDeadDESC=The vision of death becomes more pronounced, as the souls of the dead also protrude through the veil and claw at those within, hold them down and sapping their life.
+tagSoulCascadeNAME=Soul Cascade
+tagSoulCascadeDESC=The caster increases the grasp on those caught in the maelstrom of souls, draining more life from it's victims.
+
+//Warfare//
+tagWardanceNAME=War Dance
+tagWardanceDESC=The culmination of your weapon training; you are now capable of executing a ruthless attack against all enemies around you, dealing increased damage and temporarily disabling them.
+tagEndlessFuryNAME=Boundless Wrath
+tagEndlessFuryDESC=Your rage extends as your fury knows no limits.
+tagViolenceNAME=Violence
+tagViolenceDESC=Reduces the cooldown of abilities when you attack while under the influence of Battle Rage.
+tagGloryNAME=Glory
+tagGloryDESC=Your standard garners you and your allies greater reknown and drives you to near-mythical feats in battle.
+tagWarwindFinesseNAME=Finesse
+tagWarwindFinesseDESC=Execute war wind more frequently, and with greater precision, striking where the enemy is most vulnerable.
+tagHeartWarNAME=Heart of War
+tagHeartWarDESC=As the battle rages, you do not simply feel more alive; you are more alive.
+
+//Nature//
+tagStalkerStats=
+tagForceofNature=Force of Nature
+tagForceofNatureNAME=Force of Nature
+tagForceofNatureDESC=Calls forth an enormous and powerful Ascacophus to fight at your side for a duration. ^o Only one Ascacophus can be summoned at any time. The Ascacophus scales with Pet Bonuses.
+tagRoots=Roots
+tagStomp=Stomp
+tagAttack=Physical Attack
+tagThornSprite=Thorn Sprite
+tagSpriteStats=
+tagForceofNatureStats=
+tagSpriteStats2=Thorny Claws
+tagThornSpritesNAME=Thorn Sprites
+tagThornSpritesDESC=Allows the Wanderer to throw a clutch of mischievous thorn sprites at enemies. Although they do little damage, the sprites' infuriating stings distract the enemy, and the poison in their barbas can cause delirium or even unconsciousness. ^o Sprites scale with Pet Bonuses. Up to 9 sprites can be controlled at once.
+tagFabricalDischargeNAME=Fabrical Tear
+tagFabricalDischargeDESC=Learn to call thorn sprites with greater insistence, causing them to spawn violently, discharging fragments of raw elemental energy around them.
+tagVenom=Venom
+tagPoof=Poof
+
+//Rogue//
+tagBladeFuryNAME=Blade Fury
+tagBladeFuryDESC=A swift and potent multi-hit attack. ^o Requires two swords.
+tagSliceDiceNAME=Slice and Dice
+tagSliceDiceDESC=Strike hard at vitals, making sure your attacks pierce and cause your enemies pain.
+tagBoombladesNAME=Boomerang Blades
+tagBoombladesDESC=The rogue hurls out two curved daggers spin violently outwards and eventually return after slicing through any fools standing in the vicinity.
+tagCausticAcidNAME=Caustic Acid
+tagCausticAcidDESC=The boomerang blades are soaked in a diabolic acid, reducing armor to nothing on contact.
+tagDarkVaporNAME=Dark Vapors
+tagDarkVaporDESC=A sinister incantation causes the blades to decay the flesh on contact, and increase acid type damage.
+tagAphoticIchorNAME=Aphotic Ichor
+tagAphoticIchorDESC=Dark fragments are added to the concoction, which explode into a noxious gas, lowering enemy constitution and causing life damage.
+tagFlickWristNAME=Flick of the Wrist
+tagFlickWristDESC=With a little sleight of hand, the rogue can add a little extra magic to the throwing knives, allowing them to fly faster among other things.
+tagTwinBladesNAME=
+tagTwinBladesDESC=
+tagDarkArtsNAME=Dark Arts
+tagDarkArtsDESC=Years of training allow the rogue to channel some of the darker energies, as well as avoid getting killed in battle.
+tagBladeMasteryNAME=Blade Mastery
+tagBladeMasteryDESC=With bladed weapon in hand, the rogue feels at home and can attack with greater speed and accuracy. ^o Requires a sword, axe, dagger, or spear.
+
+//Earth//
+tagBoulder=Boulder Toss
+tagMeteorNAME=Meteor
+tagMeteorDESC=Pulls a massively explosive meteor and sends it crashing down in a targeted area, devastating all in the area. 
+tagRupture1=Rupture
+tagRupture2=Connect's the player's tumultuous earth energies to their staff, causing projectiles to explode on impact. ^o Requires a staff.
+tagCremate1=Cremate
+tagCremate2=Causes the staff attacks to also leave victims burning for a duration, while also reducing their toll on the caster.
+tagFlare1=Flare
+tagFlare2=Increases the fire damage on staff attacks, turning the staff into an instrument of destruction.
+tagMoltenLavaNAME=Molten Lava
+tagMoltenLavaDESC=Causes lava to pour out of the fissure, dealing prolonged burn damage and hindering enemies.
+//Storm//
+tagArcticEmanationNAME=Ice Song
+tagArcticEmanationDESC=The caster becomes able to concentrate the power of their cold attacks, greatly increasing damage.
+tagHeartofFrostNAME=Heart of Frost
+tagHeartofFrostDESC=When Arctic Shell is active, the air around the player becomes icy cold and slows any attackers within its perimeter
+tagIceSongNAME=Arctic Shell
+tagIceSongDESC=When active, the caster's weaposn are imbued with a creeping frost that inflicts cold damage on attack
+tagElectricalConduitNAME=Electrical Conduit
+tagElectricalConduitDESC=While Storm Nimbus is active, the player can channel surrounding electrical energy, greatly increasing the damage of their attacks.
+tagHailNAME=Hail
+tagHailDESC=Enemies within the squall are bombarded with hail, hindering their attacks.
+tagThunderCloudsNAME=Thunder Clouds
+tagThunderCloudsDESC=Lightning Strikes enemies within the squall, and the reduced visibility makes it difficult for enemies to defend themselves.
+
+//Dream//
+tagTroubledDreamsNAME=Troubled Dreams
+tagTroubledDreamsDESC=The Sands of Sleep now torment afflicted enemies, and erode their constitution.
+tagPsionicArteryNAME=Psionic Artery
+tagPsionicArteryDESC=Allows the caster to harmaonize with the psionic resonance, greatly increasing effects that channel life and energy.
+tagPsionicFocusNAME=Psionic Focus
+tagPsionicFocusDESC=One odd talent of the gifted Seers was the ability to create psionic energies into their bodies and harness this electrical energy to manipulate their being.
+tagDarkReverieNAME=Dark Reverie
+tagDarkReverieDESC=Some Seers focus only on dark visions of the past and future, this focus enables them to expose sinister energies which they may use to alter their own physical forms with.
+
 tagGQPetSkill01=Barbed Construction

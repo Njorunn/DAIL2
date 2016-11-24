@@ -270,8 +270,8 @@ tagClass10SkillDescription10=A special sweep attack that weakening foes.{^n}{^n}
 #***********************************************************************************************************************************
 #CENOBITE
 
-tagClass28SkillName00=^iCenobite
-tagClass28SkillName00A=^iCenobite
+tagClass28SkillName00=^YCenobite
+tagClass28SkillName00A=^YCenobite
 tagClass28SkillDescription00=Piety and discipline gives you strength.
 tagClass28SkillName01=Chosen One
 tagClass28SkillDescription01=You are gifted with skilled combat.
