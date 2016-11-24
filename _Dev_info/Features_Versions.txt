@@ -42,7 +42,7 @@ Dawn of Heros [3.9] - 3JIou
 	Stalker (Parked)
 	Malificar (Parked)
 
-Grim Quest [1.4] - Asylum101
+Grim Quest [1.4.4] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?t=39503
 	Spirit
 	Hunting
@@ -97,7 +97,7 @@ ItemRecycler [0.1] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?p=446703#post446703
 	{Item lottery at smith}
 
-Grimmer and Grimmest [DAIL Variation] - Jiaco
+Grimmer and Grimmest [DAIL Variation][1.0] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.

@@ -1,7 +1,7 @@
 templateName,database/templates/skill_attackprojectilefan.tpl,
 ActorName,FireMastery_VolcanicOrb,
 Class,Skill_AttackProjectileFan,
-FileDescription,,
+FileDescription,unused,
 skillProjectileName,records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr;records/fx/slagspikesground_fxprojectile.dbr,
 projectileLaunchRotation,,
 projectileLaunchNumber,1,
