@@ -1,7 +1,7 @@
 templateName,database/templates/proxypool.tpl,
 ActorName,,
 Class,,
-FileDescription,Master Ravok, the Death's Whisper,
+FileDescription,Master Ravok,
 spawnMin,2,
 spawnMax,4,
 championMin,2,

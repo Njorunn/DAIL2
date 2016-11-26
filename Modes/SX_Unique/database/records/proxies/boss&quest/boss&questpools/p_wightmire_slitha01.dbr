@@ -1,7 +1,7 @@
 templateName,database/templates/proxypool.tpl,
 ActorName,,
 Class,,
-FileDescription,Primordian, the Forgotten One,
+FileDescription,Primordian,
 spawnMin,2,
 spawnMax,4,
 championMin,2,
