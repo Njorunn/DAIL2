@@ -1,7 +1,7 @@
 templateName,database/templates/proxypool.tpl,
 ActorName,,
 Class,,
-FileDescription,Malkadarr,
+FileDescription,Malkadarr, Champion of Death's Vigil,
 spawnMin,2,
 spawnMax,4,
 championMin,2,

@@ -1,4 +1,4 @@
-Edit [11/20/2016 20:00] K
+Edit [11/25/2016 16:00] K
 
 ****************************************************************
 ****************************************************************
@@ -12,9 +12,8 @@ In Play: 60.3
 To Do:
 ********
 
-Inquiry - DGA Faction
 Post 50 mastery investment inquiries
-Inquiry - Grim Legion base 6 changes
+Inquiry - Grim Legion base 6 changes?
 Update - GQ
 Update - DGA 0.5 
 Update - Cornucopia 0.3.3 (Will include 1.0.0.6 new items)
@@ -25,6 +24,18 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+[60.5 11/24/2016]
+Change - (X) and (SX)Mob Scaling
+
+Change - Reverted Grimmest 1.0 to previous from XADAIL back-up
+
+Change - dumped loot tables again - merged in listed order
+	Merged - Cornucopia 
+	Merged - GD Eternal
+	Merged - Grim Quest
+	Merged - Itemrecycler
+	Merged - LCR
+
 [60.4 11/23/2016]
 Change - Loot tables - minimize mod density
 	Archived current - 
