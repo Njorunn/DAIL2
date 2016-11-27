@@ -97,7 +97,7 @@ ItemRecycler [0.1] - Asylum101
 	http://www.grimdawn.com/forums/showthread.php?p=446703#post446703
 	{Item lottery at smith}
 
-Grimmer and Grimmest [DAIL Variation][1.0] - Jiaco
+Grimmer and Grimmest [DAIL Variation] - Jiaco
 	http://www.grimdawn.com/forums/showthread.php?t=39830
 	Increased mob density
 	{Global spawn increases and all monsters spawn to player level.
