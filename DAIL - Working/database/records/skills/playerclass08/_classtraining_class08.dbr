@@ -595,6 +595,6 @@ skillDownBitmapName,ui/skills/skillallocation/skills_class08trainingbuttondown.t
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,50,
+skillMaxLevel,100,
 skillUpBitmapName,ui/skills/skillallocation/skills_class08trainingbuttonup.tex,
 unarmedOnly,0,
