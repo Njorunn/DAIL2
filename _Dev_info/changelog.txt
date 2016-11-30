@@ -1,20 +1,18 @@
-Edit [11/25/2016 16:00] K
+Edit [11/290/2016 19:30] K
 
 ****************************************************************
 ****************************************************************
 
 
-Working Version: 60.4
+Working Version: 60.6
 
-In Play: 60.3
+In Play: 60.5
 
 
 To Do:
 ********
 
-Grigori Malfunction
-Post 50 mastery investment inquiries
-
+Add GQ C & D to loottables and test
 Update - DGA 0.5 
 Update - Cornucopia 0.3.3 (Will include 1.0.0.6 new items)
 Fix - Relic weapon reqs?
@@ -24,17 +22,34 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+
+[60.6 11/29/2016]
+Update - Zenith 0.5B
+
+Update - Omega 0.71
+
+Update - Lost Treasures 0.25
+
+Fixed - GQ & Ranger anm conflicts
+
+[60.6 11/28/2016]
+Post 50 mastery investment inquiries - AlienFromBeyond
+	Grim Quest masteries
+	Mystic Warrior
+	
+[60.6 11/27/2016]
+Inquiry - Ranger Rapid Fire
+	Animation conflict with GQ 
+
+Fixed - Missing Merc combo names
+
 [60.6 11/26/2016]
 Remove - itemrecycler
 	Causing crafting lock-up
 
-Fixed - Loot tables - again
-	Merged - Corn
-	Merged - GQ
-	Merged - Selective LCR tydn C and D
-
 [60.5 11/24/2016]
-Change - (X) and (SX)Mob Scaling
+Change - (X) and (SX)
+	Lowered mob scaling
 
 Change - Reverted Grimmest 1.0 to previous from XADAIL back-up
 
