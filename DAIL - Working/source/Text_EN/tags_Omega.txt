@@ -8,6 +8,8 @@ tagOM_orb=Omega Orb
 tagOM_orbDesc="Omega Orb, reward for completing the Omega Quests, extracting the power of legendary items and defeating countless Heroes in the highest difficulty.Trade them to gain endless buffs with different powers."
 tagOM_HeroeSoul=Hero Soul
 tagOM_HeroeSoulDesc="Souls of heroes slain in Ultimate Difficulty.Collect them for completing Omega Quests"
+tagOM_HeroeSoul500=A stack of 500 Hero Soul
+tagOM_HeroeSoul500Desc="A stack of 500 Souls of heroes slain in Ultimate Difficulty.Collect them for completing Omega Quests.Also used as a reagent for rerolling Omega MI affixes."
 tagOMEssenceLegendary=Legendary Essence
 tagOMEssenceLegendaryDesc="Essence of a Legendary Item given after extracting it's power.Collect them for completing Omega Quests"
 tagOM_BossSoul=Boss Soul
@@ -49,7 +51,10 @@ tagOMPotionEmpty=Empty potion of attribute
 tagOMPotionEmptyDesc="Used in a recipe to craft a potion of attribute" 
 tagOMReagentnemesis=Nemesis soul
 tagOMReagentnemesisDesc="Used in a recipe to craft a potion of attribute" 
-
+tagOMRecipeSoulHeroes500=Stack of 500 Hero souls
+tagOMRecipeSoulHeroes500Desc="Craft a stack of 500 Hero souls"
+tagOMRecipeSoulHeroesFrom500=Hero soul
+tagOMRecipeSoulHeroesFrom500Desc="Craft 500 Hero souls from a stack of 500 Hero souls"
 #ItemSkills
 
 #Omega Skills
@@ -146,7 +151,22 @@ tagOMRecipePotionAttributeDesc="Recipe to craft a Potion of Attribute.The Mythic
 tagOMRecipePotionAttribute=Potion of Attribute recipe
 tagOMRecipeReagentnemesis=Nemesis soul recipe
 tagOMRecipeReagentnemesisDesc="Craft a Nemesis soul from any shoulder Nemesis monster infrequent" 
-
+tagOM_reroll_feet=Reroll Omega boots Hyperdrive
+tagOM_reroll_feetDesc="Reroll the affixes on the Hyperdrive boots Monster Infrequent"
+tagOM_reroll_head=Reroll Omega hat
+tagOM_reroll_headDesc="Reroll the affixes on the Omega hat Monster Infrequent"
+tagOM_reroll_torso=Reroll Omega chest
+tagOM_reroll_torsoDesc="Reroll the affixes on the Omega chest Monster Infrequent"
+tagOM_reroll_belt=Reroll Omega belt
+tagOM_reroll_beltDesc="Reroll the affixes on the Omega belt Monster Infrequent"
+tagOM_reroll_shield=Reroll Omega shield
+tagOM_reroll_shieldDesc="Reroll the affixes on the Omega shield Monster Infrequent"
+tagOM_reroll_katana=Reroll Omega katana
+tagOM_reroll_katanaDesc="Reroll the affixes on the Omega katana Monster Infrequent"
+tagOM_reroll_sacredsword=Reroll sacred sword katana
+tagOM_reroll_sacredswordDesc="Reroll the affixes on the Omega sacred sword Monster Infrequent"
+tagOMToken_Reroll=Reroll token
+tagOMToken_RerollDesc="Reagent used to reroll the affixes on Omega Monster Infrequent items"
 #TransferItems
 tagOMtransfer1=Omega Proof Level 1
 tagOMtransfer2=Omega Proof Level 2
@@ -263,6 +283,7 @@ tagOMbeltMI=Omega Belt
 tagOMheadMI=Omega hat
 tagOMkatanaMI=Omega katana
 tagOMkatanaMIDesc=The Ultimate weapon.Use it's ability to build unseen combos !
+tagOMtorsoMI=Omega Chest
 #OmegaNPC
 tagOMnpcQuestGiver=Kamui Shiro, Omega quest giver
 tagOMnpcQuestGiver1=Kamui Shiro, version 1
@@ -530,3 +551,74 @@ tagOM_Rewards2=Omega Reward 2
 tagOM_Rewards3=Omega Reward 3
 tagOM_Rewards4=Omega Reward 4
 tagOM_Rewards5=Omega Reward 5
+
+#POC_SCROLLS
+tagPOC_Scroll=POC Scroll - give scrolls
+tagPOC_Scroll2=POC Scroll - buff
+tagPOC_Notify=You just received two Scrolls!
+
+tagOMToken_1=Omega Challenge Token 1
+tagOMToken_1Desc="Consumed when opening Clone's trove in Edge of Reality to start a chain of killing Challenge boss .The Edge of Reality is a world area in Act 4. It connects to the Sanctum of the Immortal.
+The area is a hidden level on Ultimate difficulty only, accessed by completing the secret quest relating to Daila Thornsbury and her sword Stormheart."
+tagOMToken_2=Omega Challenge Token 2
+tagOMToken_3=Omega Challenge Token 3
+tagOMToken_4=Omega Challenge Token 4
+tagOMToken_5=Omega Challenge Token 5
+tagOMToken_6=Omega Challenge Token 6
+tagOMToken_7=Omega Challenge Token 7
+tagOMToken_8=Omega Challenge Token 8
+tagOMToken_9=Omega Challenge Token 9
+tagOMToken_10=Omega Challenge Token 10
+tagOMToken_11=Omega Challenge Token 11
+tagOMToken_12=Omega Challenge Token 12
+tagOMToken_13=Omega Challenge Token 13
+tagOMToken_14=Omega Challenge Token 14
+tagOMToken_15=Omega Challenge Token 15
+tagOMToken_16=Omega Challenge Token 16
+tagOMToken_17=Omega Challenge Token 17
+tagOMToken_18=Omega Challenge Token 18
+tagOMToken_19=Omega Challenge Token 19
+tagOMToken_20=Omega Challenge Token 20
+tagOMToken_21=Omega Challenge Token 21
+
+tagOMToken_2Desc="In Ultimate difficulty, go back to the secret chest in Warden Cellar 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_3Desc="In Ultimate difficulty, go back to the secret chest in East Marsh 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_4Desc="In Ultimate difficulty, go back to the secret chest in Witch God Temple 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_5Desc="In Ultimate difficulty, go back to the secret chest in Cronley's Hideout 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_6Desc="In Ultimate difficulty, go back to the secret chest in Undercity 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_7Desc="In Ultimate difficulty, go back to the secret chest in SoT 5.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_8Desc="In Ultimate difficulty, go back to the secret chest in Four Hills Ruins 2.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_9Desc="In Ultimate difficulty, go back to the secret chest in Old Arkovia 1.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_10Desc="In Ultimate difficulty, go back to the secret chest in Arkovian Foothills 3.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_11Desc="In Ultimate difficulty, go back to the secret chest in Shrine to Forgotten God.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_12Desc="In Ultimate difficulty, go back to the secret chest in Tyrant's Hold 3.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_13Desc="In Ultimate difficulty, go back to the secret chest in Darkvale Gate 5.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_14Desc="In Ultimate difficulty, go back to the secret chest in Obsidian Throne.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_15Desc="In Ultimate difficulty, go back to the secret chest in BoC 3.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_16Desc="In Ultimate difficulty, go back to the secret chest in Asterkarn Valley 1.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_17Desc="In Ultimate difficulty, go back to the secret chest in Necropolis 1.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_18Desc="In Ultimate difficulty, go back to the secret chest in Necropolis Crypt 1.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_19Desc="In Ultimate difficulty, go back to the secret chest in Final Tomb 3.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+tagOMToken_20Desc="In Ultimate difficulty, go back to the secret chest in Necropolis Aetherfire.If you have already discovered the chest, instead of finding a lower level chest, the Challenge token will be destroyed and you will encounter a Challenge boss."
+
+
+tagOM_Challengeboss1=Gamshai Pansosh, Omega Challenge boss 1
+tagOM_Challengeboss2=Enoitii Mysopraes, Omega Challenge boss 2
+tagOM_Challengeboss3=Alio Hang, Omega Challenge boss 3
+tagOM_Challengeboss4=Daddah Shipghis, Omega Challenge boss 4
+tagOM_Challengeboss5=Taasaz Paibuo, Omega Challenge boss 5
+tagOM_Challengeboss6=Abaax Giddifa, Omega Challenge boss 6
+tagOM_Challengeboss7=Shietrimp Khuqkhuk, Omega Challenge boss 7
+tagOM_Challengeboss8=Zaghuz Shukhi, Omega Challenge boss 8
+tagOM_Challengeboss9=Jeinda Hounzoung, Omega Challenge boss 9
+tagOM_Challengeboss10=Jeimdou Gimmidha, Omega Challenge boss 10
+tagOM_Challengeboss11=Ubbaam Uthaub, Omega Challenge boss 11
+tagOM_Challengeboss12=Leveo Gifii, Omega Challenge boss 12
+tagOM_Challengeboss13=Toqmid Tsouda, Omega Challenge boss 13
+tagOM_Challengeboss14=Dhaguz Bhathagh, Omega Challenge boss 14
+tagOM_Challengeboss15=Qaabaag Mevdaum, Omega Challenge boss 15
+tagOM_Challengeboss16=Numi Zeexac, Omega Challenge boss 16
+tagOM_Challengeboss17=Aicklank Davomp, Omega Challenge boss 17
+tagOM_Challengeboss18=Headre Whomplalgeass, Omega Challenge boss 18
+tagOM_Challengeboss19=Thauss Shuscopt, Omega Challenge boss 19
+tagOM_Challengeboss20=Hass Votho, Omega Challenge boss 20

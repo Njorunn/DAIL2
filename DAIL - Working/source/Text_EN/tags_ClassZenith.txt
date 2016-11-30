@@ -87,7 +87,7 @@ tagClass12SkillName03B=Restructure
 tagClass12SkillDescription03B=Feed material energies into the power which surges from you.
 
 tagClass12SkillName04A=Elemental Armoring
-tagClass12SkillDescription04A=You conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
+tagClass12SkillDescription04A=Your conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
 
 tagClass12SkillName05A=Rider of the Storm
 tagClass12SkillDescription05A=A maelstrom of the elements surround and empowers you.

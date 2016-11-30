@@ -63,7 +63,7 @@ end
 
 function ltreasures.ondrop(objectId)
 	print("ondrop",objectId)
-	local newCreature = Entity.Create('records/treasures/fx/skillsother/treasures_fx_lootbeam.dbr');
+	local newCreature = Entity.Create('records/treasures/fx/skillsother/treasures_fxpak_lootbeam.dbr');
 	local coords = Entity.Get(objectId):GetCoords()
 	newCreature:SetCoords(coords);
 	UI.Notify('tagT_ondrop');
