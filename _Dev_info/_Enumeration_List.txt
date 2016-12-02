@@ -20,7 +20,7 @@ Enumeration Reference Sheet
 24		Dream				Dream
 25		Demonology			Voidcaller
 26		Enchanter			Enchanter
-27		Mercenary			Mercenary(ClassEngineer : Engineer) 
+27		Mercenary			Mercenary (ClassEngineer : Engineer) 
 28		class28				Cenobite
-29		class29				Witch Doctor (Arlequin)
+29		ClassWitchDoctor	Witch Doctor (Arlequin)
 30		ClassDemonHunter	Demon Hunter
