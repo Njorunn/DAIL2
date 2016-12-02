@@ -88,9 +88,3 @@ tagDAILmedal03=^yGold Participation Award
 tagWeaponAxeD000=^iEdge of Lune
 
 tagDAILpetGroble=Gnebos of Derp
-
-tagRingChallenge01=Green
-tagRingChallenge02=Blue
-tagRingChallenge03=Purple
-tagRingChallenge04=Red
-tagRingChallenge05=White
