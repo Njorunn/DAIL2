@@ -1,7 +1,7 @@
 templateName,database/templates/npc.tpl,
 ActorName,,
 Class,Npc,
-FileDescription,,
+FileDescription,Omega,
 messageFileName,,
 messageSoundFile,,
 messageScrollRate,0.01,

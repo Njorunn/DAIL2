@@ -1,6 +1,0 @@
-templateName,database/templates/skill_buffradiustoggled.tpl,
-ActorName,LightningMastery_StoreStrike,
-Class,Skill_BuffRadiusToggled,
-FileDescription,Green,
-instantCast,0,
-buffSkillName,dail/enemies/skills/challenge_aura_01b.dbr,
