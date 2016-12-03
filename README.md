@@ -1,5 +1,7 @@
 # DAIL2
-DAIL simplified for simple minded dev. DAIL is a mod compilation for the game Grim Dawn.
+DAIL simplified for simple minded dev. 
+
+DAIL is a mod compilation for the game Grim Dawn.
 
 DAIL source is provided for those who wish to contribute to the project, or make edits for private use.
 Otherwise, DAIL is not to be altered, renamed, ripped (other than for seeing how functions are set up and linked), 
