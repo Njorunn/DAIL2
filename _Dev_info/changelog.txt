@@ -22,6 +22,8 @@ Update - Skills for staff/spear?
 	
 ****************************************************************
 ****************************************************************
+[60.6 12/1/2016]
+Added - Additional Davood merchandise - AlienFromBeyond 
 
 [60.6 11/29/2016]
 Update - Zenith 0.5B
@@ -46,6 +48,8 @@ Fixed - Missing Merc combo names
 [60.6 11/26/2016]
 Remove - itemrecycler
 	Causing crafting lock-up
+	
+Fixed - Missing TK training bar image
 
 [60.5 11/24/2016]
 Change - (X) and (SX)

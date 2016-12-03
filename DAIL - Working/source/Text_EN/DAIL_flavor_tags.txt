@@ -8,6 +8,7 @@ tagGrimmestSamtarian_the_half=^pSamtarian, the Half-...
 
 
 tagNPC_Guard_Kath=Kathanious - ^oDAIL Curator
+tagNPC_Guard_Alien=Alien - ^oTraveller from Beyond
 
 #Loading Tips
 tagLoadingTip01=
