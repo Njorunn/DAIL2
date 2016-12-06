@@ -1,7 +1,7 @@
 templateName,database/templates/projectileorbiting.tpl,
 ActorName,,
 Class,ProjectileOrbiting,
-FileDescription,,
+FileDescription,Corn,
 projectileStartDistance,3.0,
 projectileOrbitRate,180.0,
 projectileFollow,1,

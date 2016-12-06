@@ -1,7 +1,7 @@
 templateName,database/templates/projectileexploding.tpl,
 ActorName,,
 Class,ProjectileExploding,
-FileDescription,,
+FileDescription,Corn,
 launchAngle,0.0,
 projectileVelocity,31.0,
 useTrajectory,0,

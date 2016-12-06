@@ -1,7 +1,7 @@
 templateName,database/templates/skillautocastcontroller.tpl,
 ActorName,,
 Class,,
-FileDescription,8%,
+FileDescription,Corn,
 chanceToRun,8,
 triggerType,HitByMelee,
 triggerParam,,

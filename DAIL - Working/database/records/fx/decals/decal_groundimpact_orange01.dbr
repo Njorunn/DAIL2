@@ -1,7 +1,7 @@
 templateName,database/templates/decal.tpl,
 ActorName,,
 Class,Decal,
-FileDescription,,
+FileDescription,Corn,
 width,6.5,
 height,6.5,
 texture,fx/decals/groundimpact_orange01.tex,

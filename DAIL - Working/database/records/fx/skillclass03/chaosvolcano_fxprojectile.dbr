@@ -1,7 +1,7 @@
 templateName,database/templates/projectilegrenade.tpl,
 ActorName,,
 Class,ProjectileGrenade,
-FileDescription,,
+FileDescription,Corn,
 launchAngle,60.0,
 projectileVelocity,9.0,
 harmlessInFlight,1,
