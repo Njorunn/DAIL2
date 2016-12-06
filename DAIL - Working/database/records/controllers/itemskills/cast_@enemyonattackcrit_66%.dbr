@@ -1,7 +1,7 @@
 templateName,database/templates/skillautocastcontroller.tpl,
 ActorName,,
 Class,,
-FileDescription,66%,
+FileDescription,Corn,
 chanceToRun,66,
 triggerType,AttackEnemyCrit,
 triggerParam,,

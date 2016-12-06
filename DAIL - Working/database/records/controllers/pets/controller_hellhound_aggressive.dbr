@@ -1,7 +1,7 @@
 templateName,database/templates/controllermonster.tpl,
 ActorName,,
 Class,ControllerMonster,
-FileDescription,,
+FileDescription,Corn,
 FleeBehavior,NeverFlee,
 FleeTime,2500,
 FleeTarget,TowardsAllies,

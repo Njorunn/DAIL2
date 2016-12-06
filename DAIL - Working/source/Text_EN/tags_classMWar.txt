@@ -3,9 +3,9 @@
 #ENUMERATION 15
 
 
-tagSkillClassDescMWar=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n ^n ^kMystic warriors are former soldiers or individuals with extensive military training, which doomed them to be among the first targets of the aetherials. During the battle of their mind the mystic warriors learned to tap into the power of the aether, allowing them to resist the possesion. After the freedom they realized they can use aetherial energy whenever they want.
+tagSkillClassDescriptionMWar=^yIMPORTANT! ^wThis is a rotating slot. A different mastery may replace this class at any time.^n ^n ^kMystic warriors are former soldiers or individuals with extensive military training, which doomed them to be among the first targets of the aetherials. During the battle of their mind the mystic warriors learned to tap into the power of the aether, allowing them to resist the possesion. After the freedom they realized they can use aetherial energy whenever they want.
 
-tagClassMWarSkillName00=Mystic Warrior
+tagClassMWarSkillName00=yMystic Warrior
 tagClassMWarSkillDescription00=Aetherial attunement
 
 tagClassMWarSkillName01A=Aetherial Strike
